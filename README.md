@@ -165,4 +165,6 @@
 
 | Problem | Swift | Java | JavaScript |
 |:---|:---:|:---:|:---:|
-| [604. Design Compressed String Iterator](https://leetcode.cn/problems/design-compressed-string-iterator/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/26_Design/LC_604_Design_Compressed_String_Iterator.swift) |  [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_604_Design_Compressed_String_Iterator.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/26_Design/LC_604_Design_Compressed_String_Iterator.js) | 
+| [604. Design Compressed String Iterator](https://leetcode.cn/problems/design-compressed-string-iterator/) | [Swift❎](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/26_Design/LC_604_Design_Compressed_String_Iterator.swift) |  [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_604_Design_Compressed_String_Iterator.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/26_Design/LC_604_Design_Compressed_String_Iterator.js) | 
+
+❎ - 表示本地环境测试通过，但 LeetCode 运行失败
