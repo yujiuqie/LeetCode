@@ -54,6 +54,6 @@ class Solution {
     }
 }
 
-public class $549_BinaryTreeLongestConsecutiveSequenceII {
+public class LC_549_BinaryTreeLongestConsecutiveSequenceII {
 
 }

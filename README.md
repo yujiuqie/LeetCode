@@ -66,7 +66,7 @@
 
 | Problem | Swift | Java | JavaScript |
 |:---:|:---:|:---:|:---:|
-| [549.Binary Tree Longest Consecutive Sequence](https://leetcode.cn/problems/binary-tree-longest-consecutive-sequence-ii/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/11_BinaryTreeGeneral/LC_549_BinaryTreeLongestConsecutiveSequenceII.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/11_BinaryTreeGeneral/%24549_BinaryTreeLongestConsecutiveSequenceII.java) | [JavaScript]|
+| [549.Binary Tree Longest Consecutive Sequence](https://leetcode.cn/problems/binary-tree-longest-consecutive-sequence-ii/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/11_BinaryTreeGeneral/LC_549_BinaryTreeLongestConsecutiveSequenceII.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/11_BinaryTreeGeneral/LC_549_BinaryTreeLongestConsecutiveSequenceII.java) | [JavaScript]|
 
 #### 12. 二叉树层次遍历（BinaryTree BFS）
 
