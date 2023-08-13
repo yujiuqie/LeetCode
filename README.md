@@ -147,7 +147,7 @@
 
 | Problem | Swift | Java | JavaScript |
 |:---|:---:|:---:|:---:|
-| [] | [Swift[] |  [Java[] |  [JavaScript[] | 
+| [1180. Count Substrings with Only One Distinct Letter](https://leetcode.cn/problems/count-substrings-with-only-one-distinct-letter/) | [Swift[] |  [Java[] |  [JavaScript[] | 
 
 #### 24. 动态规划（DP）
 

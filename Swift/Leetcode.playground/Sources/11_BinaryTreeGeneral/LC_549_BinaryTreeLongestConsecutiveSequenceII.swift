@@ -28,7 +28,7 @@ public class Solution_549 {
         longestPath(root)
         return maxValue
     }
-
+    
     public func longestPath(_ root: TreeNode?) -> [Int] {
         if (root == nil) {
             return [0,0]
@@ -65,6 +65,6 @@ public class Solution_549 {
     }
 }
 
-public class LC_549_BinaryTreeLongestConsecutiveSequenceII : Solution{
+public class LC_549_BinaryTreeLongestConsecutiveSequenceII : Solution_549{
     public override init() {}
 }

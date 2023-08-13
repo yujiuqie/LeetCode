@@ -13,3 +13,6 @@ solution_549.longestConsecutive(node)
 
 let solution_250 = LC_250_CountUnivalueSubtrees()
 solution_250.countUnivalSubtrees(node)
+
+let solution_1180 = LC_1180_CountSubstringsWithOnlyOneDistinctLetter()
+solution_1180.countLetters("aaaba")
