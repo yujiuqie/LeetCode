@@ -16,3 +16,23 @@ solution_250.countUnivalSubtrees(node)
 
 let solution_1180 = LC_1180_CountSubstringsWithOnlyOneDistinctLetter()
 solution_1180.countLetters("aaaba")
+
+let regex = /\D|\d+/
+let validate = "L3e2t1C1o1d1e11"
+let res = validate.matches(of: regex)
+
+var data:[String] = Array()
+for item in res {
+    data.append(item.output.description)
+}
+
+let solution_604 = StringIterator("L1e2t1C1o1d1e1")
+solution_604.next()
+solution_604.next()
+solution_604.next()
+solution_604.next()
+solution_604.next()
+solution_604.next()
+solution_604.hasNext()
+solution_604.next()
+solution_604.hasNext()

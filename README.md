@@ -1,4 +1,4 @@
-# Leetcode
+# LeetCode
 
 >
 > 种一棵树最好的时间是十年前，其次是现在。 ——Dambisa Moyo
@@ -6,7 +6,7 @@
 
 * 该仓库主要用于记录 LeetCode 题解
 * 题解语言为 Swift、Java、JavaScript
-* Leetcode：[https://leetcode.cn/u/ZMyPGyGbq8/](https://leetcode.cn/u/ZMyPGyGbq8/)
+* LeetCode：[https://leetcode.cn/u/ZMyPGyGbq8/](https://leetcode.cn/u/ZMyPGyGbq8/)
 * 个人博客：[https://jhfs.fun/](https://jhfs.fun/)
 * 欢迎大家指正，感谢小星星⭐️⭐️！
 
@@ -161,3 +161,8 @@
 |:---|:---:|:---:|:---:|
 | [] | [Swift] |  [Java] |  [JavaScript] | 
 
+#### 26. 设计（Design）
+
+| Problem | Swift | Java | JavaScript |
+|:---|:---:|:---:|:---:|
+| [604. Design Compressed String Iterator](https://leetcode.cn/problems/design-compressed-string-iterator/) | [Swift] |  [Java] |  [JavaScript] | 
