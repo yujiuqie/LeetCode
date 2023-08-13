@@ -5,7 +5,7 @@
 //  Created by viktyz on 2023/8/13.
 //
 
-import Cocoa
+import Foundation
 
 public class TreeNode {
     public var val: Int
@@ -20,7 +20,7 @@ public class TreeNode {
     }
 }
 
-public class Solution {
+public class Solution_549 {
     
     public var maxValue : Int = 0;
     
