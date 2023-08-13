@@ -1,6 +1,11 @@
 # Leetcode
 
-> 种一棵树最好的时间是十年前，其次是现在。(Dambisa Moyo)
+> 种一棵树最好的时间是十年前，其次是现在。 ——Dambisa Moyo
+
+* 该仓库主要用于记录 LeetCode 题解
+* 题解语言为 Swift、Java、JavaScript
+* 个人博客：[https://jhfs.fun/](https://jhfs.fun/)
+* 欢迎大家指正，感谢小星星⭐️⭐️！
 
 #### 1. 数组（Array）
 
