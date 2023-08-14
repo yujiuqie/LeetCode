@@ -8,7 +8,7 @@ public class StringIterator {
         let regex = /\D|\d+/
         let res = compressedString.matches(of: regex)
         
-        for i in 0...res.count - 1{
+        for i in 0..<res.count{
             if(i % 2 == 0){
                 group_ch.append(String(res[i].output))
             }

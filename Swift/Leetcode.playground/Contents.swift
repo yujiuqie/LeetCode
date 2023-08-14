@@ -42,4 +42,5 @@ solution_617.mergeTrees(node1, node2)
 let solution_1180 = LC_1180_CountSubstringsWithOnlyOneDistinctLetter()
 solution_1180.countLetters("aaaba")
 
-
+let solution_1120 = LC_1120_MaximumAverageSubtree()
+solution_1120.maximumAverageSubtree(node1)
