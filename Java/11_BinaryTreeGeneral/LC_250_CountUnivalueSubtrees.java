@@ -13,7 +13,7 @@
  *     }
  * }
  */
-class Solution {
+class Solution_250 {
     int count = 0;
     public int countUnivalSubtrees(TreeNode root) {
         dfs(root,0);
@@ -35,4 +35,8 @@ class Solution {
         count++;
         return root.val == val;
     }
+}
+
+public class LC_250_CountUnivalueSubtrees {
+
 }

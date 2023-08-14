@@ -1,4 +1,4 @@
-class Solution {
+class Solution_1180 {
     public int countLetters(String s) {
         int res = 0;
         int count = 1;
@@ -15,4 +15,8 @@ class Solution {
         res += count * (count + 1) / 2;
         return res;
     }
+}
+
+public class LC_1180_CountSubstringsWithOnlyOneDistinctLetter {
+    
 }

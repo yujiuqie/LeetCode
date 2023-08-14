@@ -24,6 +24,21 @@ solution_604.hasNext()
 solution_604.next()
 solution_604.hasNext()
 
+
+var node1 : TreeNode = TreeNode(1)
+node1.left = TreeNode(3)
+node1.left?.left = TreeNode(5)
+node1.right = TreeNode(2)
+
+var node2 : TreeNode = TreeNode(2)
+node2.left = TreeNode(1)
+node2.left?.right = TreeNode(4)
+node2.right = TreeNode(3)
+node2.right?.right = TreeNode(7)
+
+let solution_617 = LC_617_MergeTwoBinaryTrees()
+solution_617.mergeTrees(node1, node2)
+
 let solution_1180 = LC_1180_CountSubstringsWithOnlyOneDistinctLetter()
 solution_1180.countLetters("aaaba")
 

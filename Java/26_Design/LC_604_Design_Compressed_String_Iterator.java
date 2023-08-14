@@ -1,4 +1,4 @@
-public class StringIterator {
+class StringIterator {
     String res;
     int ptr = 0;
     int num = 0;
@@ -27,4 +27,8 @@ public class StringIterator {
     public boolean hasNext() {
         return ptr != res.length() || num != 0;
     }
+}
+
+public class LC_604_Design_Compressed_String_Iterator {
+    
 }
