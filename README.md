@@ -20,7 +20,7 @@
 
 | Problem | Swift | Java | JavaScript |
 |:---|:---:|:---:|:---:|
-| [833. Find And Replace in String](https://leetcode.cn/problems/find-and-replace-in-string/) | [Swift] |  [Java] |  [JavaScript] | 
+| [833. Find And Replace in String](https://leetcode.cn/problems/find-and-replace-in-string/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/2_String/LC_833_FindAndReplaceInString.swift) |  [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_833_FindAndReplaceInString.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/2_String/LC_833_FindAndReplaceInString.js) | 
 
 #### 3. 双指针（Two Pointers）
 
