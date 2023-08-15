@@ -1,8 +1,18 @@
 # LeetCode
 
->
-> 种一棵树最好的时间是十年前，其次是现在。 ——Dambisa Moyo
+----
+
 > 
+> Q: When is the best time to plant a tree?
+> 
+> A: Ten years ago.
+> 
+> Q: And when is the next best time?
+> 
+> A: Today. 
+> 
+
+----
 
 * 该仓库主要用于记录 LeetCode 题解
 * 题解语言为 Swift、Java、JavaScript
