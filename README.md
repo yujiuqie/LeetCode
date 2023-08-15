@@ -6,8 +6,8 @@
 
 * 该仓库主要用于记录 LeetCode 题解
 * 题解语言为 Swift、Java、JavaScript
-* LeetCode：[https://leetcode.cn/u/ZMyPGyGbq8/](https://leetcode.cn/u/ZMyPGyGbq8/)
-* 个人博客：[https://jhfs.fun/](https://jhfs.fun/)
+* LeetCode：[https://leetcode.cn/u/ZMyPGyGbq8](https://leetcode.cn/u/ZMyPGyGbq8/)
+* 个人博客：[https://jhfs.fun](https://jhfs.fun/)
 * 欢迎大家指正，感谢小星星⭐️⭐️！
 
 #### 1. 数组(Array)
@@ -16,10 +16,11 @@
 |:---|:---:|:---:|:---:|
 | [] | [Swift] |  [Java] |  [JavaScript] | 
 
-#### 2. 字符串(String)
+#### 2. 字符串(String)([Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/2_String/) - [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/) - [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/2_String/))
 
 | Problem | Swift | Java | JavaScript |
 |:---|:---:|:---:|:---:|
+| [58. Length of Last Word](https://leetcode.cn/problems/length-of-last-word/) | [Swift] |  [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_58_LengthOfLastWord.java) |  [JavaScript] | 
 | [833. Find And Replace in String](https://leetcode.cn/problems/find-and-replace-in-string/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/2_String/LC_833_FindAndReplaceInString.swift) |  [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_833_FindAndReplaceInString.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/2_String/LC_833_FindAndReplaceInString.js) | 
 
 #### 3. 双指针(Two Pointers)
@@ -170,5 +171,7 @@
 | Problem | Swift | Java | JavaScript |
 |:---|:---:|:---:|:---:|
 | [604. Design Compressed String Iterator](https://leetcode.cn/problems/design-compressed-string-iterator/) | [Swift❎](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/26_Design/LC_604_Design_Compressed_String_Iterator.swift) |  [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_604_Design_Compressed_String_Iterator.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/26_Design/LC_604_Design_Compressed_String_Iterator.js) | 
+
+----
 
 ❎ - 表示`环境原因错误`而非`算法逻辑错误`。本地运行可以通过，但 LeetCode 运行会报错误。
