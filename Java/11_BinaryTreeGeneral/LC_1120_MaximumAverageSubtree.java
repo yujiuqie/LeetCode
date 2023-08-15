@@ -13,7 +13,7 @@
  *     }
  * }
  */
-class Solution {
+class Solution_1120 {
     double max = Integer.MIN_VALUE;
     public double maximumAverageSubtree(TreeNode root) {
         dfs(root);
