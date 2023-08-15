@@ -39,6 +39,9 @@ node2.right?.right = TreeNode(7)
 let solution_617 = LC_617_MergeTwoBinaryTrees()
 solution_617.mergeTrees(node1, node2)
 
+let solution_833 = LC_833_FindAndReplaceInString()
+solution_833.findReplaceString("abcd", [0,2], ["ab","ec"], ["eee","ffff"])
+
 let solution_1180 = LC_1180_CountSubstringsWithOnlyOneDistinctLetter()
 solution_1180.countLetters("aaaba")
 
