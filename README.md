@@ -20,13 +20,13 @@
 * 个人博客：[https://jhfs.fun](https://jhfs.fun/)
 * 欢迎大家指正，感谢小星星⭐️⭐️！
 
-#### 1. 数组(Array)([Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/1_Array/) - [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/) - [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/1_Array/))
+#### 1. 数组(Array)([Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/1_Array/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/1_Array/))
 
 | Problem | Swift | Java | JavaScript |
 |:---|:---:|:---:|:---:|
 | [2682. Find the Losers of the Circular Game](https://leetcode.cn/problems/find-the-losers-of-the-circular-game/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/1_Array/LC_2682_FindTheLosersOfTheCircularGame.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/LC_2682_FindTheLosersOfTheCircularGame.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/1_Array/LC_2682_FindTheLosersOfTheCircularGame.js) | 
 
-#### 2. 字符串(String)([Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/2_String/) - [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/) - [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/2_String/))
+#### 2. 字符串(String)([Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/2_String/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/2_String/))
 
 | Problem | Swift | Java | JavaScript |
 |:---|:---:|:---:|:---:|
@@ -81,7 +81,7 @@
 |:---|:---:|:---:|:---:|
 | [] | [Swift] |  [Java] |  [JavaScript] | 
 
-#### 11. 二叉树(Binary Tree General)([Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/11_BinaryTreeGeneral/) - [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/11_BinaryTreeGeneral/) - [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/11_BinaryTreeGeneral/))
+#### 11. 二叉树(Binary Tree General)([Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/11_BinaryTreeGeneral/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/11_BinaryTreeGeneral/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/11_BinaryTreeGeneral/))
 
 | Problem | Swift | Java | JavaScript |
 |:---|:---:|:---:|:---:|
@@ -140,11 +140,11 @@
 |:---|:---:|:---:|:---:|
 | [] | [Swift] |  [Java] |  [JavaScript] | 
 
-#### 20. 二分查找(Binary Search)
+#### 20. 二分查找(Binary Search)([Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/20_BinarySearch/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/20_BinarySearch/))
 
 | Problem | Swift | Java | JavaScript |
 |:---|:---:|:---:|:---:|
-| [] | [Swift] |  [Java] |  [JavaScript] | 
+| [1228. Missing Number In Arithmetic Progression](https://leetcode.cn/problems/missing-number-in-arithmetic-progression/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/20_BinarySearch/LC_1228_MissingNumberInArithmeticProgression.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/LC_1228_MissingNumberInArithmeticProgression.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/20_BinarySearch/LC_1228_MissingNumberInArithmeticProgression.js) | 
 
 #### 21. 堆(Heap)
 

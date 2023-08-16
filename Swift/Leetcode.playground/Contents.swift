@@ -48,5 +48,8 @@ solution_1180.countLetters("aaaba")
 let solution_1120 = LC_1120_MaximumAverageSubtree()
 solution_1120.maximumAverageSubtree(node1)
 
+let solution_1228 = LC_1228_MissingNumberInArithmeticProgression()
+solution_1228.missingNumber([5,7,11,13])
+
 let solution_2682 = LC_2682_FindTheLosersOfTheCircularGame()
 solution_2682.circularGameLosers(5,2)
