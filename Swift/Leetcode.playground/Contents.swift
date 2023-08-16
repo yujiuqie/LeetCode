@@ -47,3 +47,6 @@ solution_1180.countLetters("aaaba")
 
 let solution_1120 = LC_1120_MaximumAverageSubtree()
 solution_1120.maximumAverageSubtree(node1)
+
+let solution_2682 = LC_2682_FindTheLosersOfTheCircularGame()
+solution_2682.circularGameLosers(5,2)

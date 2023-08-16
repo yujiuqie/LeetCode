@@ -20,11 +20,11 @@
 * 个人博客：[https://jhfs.fun](https://jhfs.fun/)
 * 欢迎大家指正，感谢小星星⭐️⭐️！
 
-#### 1. 数组(Array)
+#### 1. 数组(Array)([Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/1_Array/) - [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/) - [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/1_Array/))
 
 | Problem | Swift | Java | JavaScript |
 |:---|:---:|:---:|:---:|
-| [] | [Swift] |  [Java] |  [JavaScript] | 
+| [2682. Find the Losers of the Circular Game](https://leetcode.cn/problems/find-the-losers-of-the-circular-game/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/1_Array/LC_2682_FindTheLosersOfTheCircularGame.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/LC_2682_FindTheLosersOfTheCircularGame.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/1_Array/LC_2682_FindTheLosersOfTheCircularGame.js) | 
 
 #### 2. 字符串(String)([Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/2_String/) - [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/) - [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/2_String/))
 
