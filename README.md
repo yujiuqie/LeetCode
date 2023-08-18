@@ -20,15 +20,15 @@
 * 个人博客：[https://jhfs.fun](https://jhfs.fun/)
 * 欢迎大家指正，感谢小星星⭐️⭐️！
 
-#### 1. 数组(Array)([Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/1_Array/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/1_Array/))
+#### 1. 数组(Array)
 
-| Problem | Swift | Java | JavaScript |
+| Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/1_Array/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/1_Array/) |
 |:---|:---:|:---:|:---:|
 | [2682. Find the Losers of the Circular Game](https://leetcode.cn/problems/find-the-losers-of-the-circular-game/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/1_Array/LC_2682_FindTheLosersOfTheCircularGame.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/LC_2682_FindTheLosersOfTheCircularGame.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/1_Array/LC_2682_FindTheLosersOfTheCircularGame.js) | 
 
-#### 2. 字符串(String)([Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/2_String/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/2_String/))
+#### 2. 字符串(String)
 
-| Problem | Swift | Java | JavaScript |
+| Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/2_String/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/2_String/) |
 |:---|:---:|:---:|:---:|
 | [58. Length of Last Word](https://leetcode.cn/problems/length-of-last-word/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_58_LengthOfLastWord.java) |  [JavaScript] | 
 | [833. Find And Replace in String](https://leetcode.cn/problems/find-and-replace-in-string/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/2_String/LC_833_FindAndReplaceInString.swift) |  [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_833_FindAndReplaceInString.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/2_String/LC_833_FindAndReplaceInString.js) | 
@@ -81,9 +81,9 @@
 |:---|:---:|:---:|:---:|
 | [] | [Swift] | [Java] | [JavaScript] | 
 
-#### 11. 二叉树(Binary Tree General)([Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/11_BinaryTreeGeneral/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/11_BinaryTreeGeneral/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/11_BinaryTreeGeneral/))
+#### 11. 二叉树(Binary Tree General)
 
-| Problem | Swift | Java | JavaScript |
+| Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/11_BinaryTreeGeneral/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/11_BinaryTreeGeneral/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/11_BinaryTreeGeneral/)|
 |:---|:---:|:---:|:---:|
 | [250. Count Univalue Subtrees](https://leetcode.cn/problems/count-univalue-subtrees/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/11_BinaryTreeGeneral/LC_250_CountUnivalueSubtrees.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/11_BinaryTreeGeneral/LC_250_CountUnivalueSubtrees.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/11_BinaryTreeGeneral/LC_250_CountUnivalueSubtrees.js)|
 | [314. Binary Tree Vertical Order Traversal](https://leetcode.cn/problems/binary-tree-vertical-order-traversal/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/11_BinaryTreeGeneral/LC_314_BinaryTreeVerticalOrderTraversal.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/11_BinaryTreeGeneral/LC_314_BinaryTreeVerticalOrderTraversal.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/11_BinaryTreeGeneral/LC_314_BinaryTreeVerticalOrderTraversal.js)| 
@@ -141,9 +141,9 @@
 |:---|:---:|:---:|:---:|
 | [] | [Swift] | [Java] | [JavaScript] | 
 
-#### 20. 二分查找(Binary Search)([Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/20_BinarySearch/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/20_BinarySearch/))
+#### 20. 二分查找(Binary Search)
 
-| Problem | Swift | Java | JavaScript |
+| Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/20_BinarySearch/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/20_BinarySearch/)|
 |:---|:---:|:---:|:---:|
 | [1228. Missing Number In Arithmetic Progression](https://leetcode.cn/problems/missing-number-in-arithmetic-progression/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/20_BinarySearch/LC_1228_MissingNumberInArithmeticProgression.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/LC_1228_MissingNumberInArithmeticProgression.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/20_BinarySearch/LC_1228_MissingNumberInArithmeticProgression.js) | 
 
@@ -159,28 +159,28 @@
 |:---|:---:|:---:|:---:|
 | [] | [Swift] | [Java] | [JavaScript] | 
 
-#### 23. 数学(Math)([Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/23_Math/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/23_Math/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/23_Math/))
+#### 23. 数学(Math)
 
-| Problem | Swift | Java | JavaScript |
+| Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/23_Math/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/23_Math/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/23_Math/)|
 |:---|:---:|:---:|:---:|
 | [1134. Armstrong Number](https://leetcode.cn/problems/armstrong-number/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/23_Math/LC_1134_ArmstrongNumber.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/23_Math/LC_1134_ArmstrongNumber.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/23_Math/LC_1134_ArmstrongNumber.js)| 
 | [1180. Count Substrings with Only One Distinct Letter](https://leetcode.cn/problems/count-substrings-with-only-one-distinct-letter/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/23_Math/LC_1180_CountSubstringsWithOnlyOneDistinctLetter.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/23_Math/LC_1180_CountSubstringsWithOnlyOneDistinctLetter.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/23_Math/LC_1180_CountSubstringsWithOnlyOneDistinctLetter.js) | 
 
-#### 24. 动态规划(DP)([Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/24_DP/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/24_DP/))
+#### 24. 动态规划(DP)
 
-| Problem | Swift | Java | JavaScript |
+| Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/24_DP/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/24_DP/) |
 |:---|:---:|:---:|:---:|
 | [276. Paint Fence](https://leetcode.cn/problems/paint-fence/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_276_PaintFence.java) | [JavaScript] | 
 
-#### 25. 多维动态规划(Multidimensional DP)([Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/25_MultidimensionalDP/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/25_MultidimensionalDP/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/25_MultidimensionalDP/))
+#### 25. 多维动态规划(Multidimensional DP)
 
-| Problem | Swift | Java | JavaScript |
+| Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/25_MultidimensionalDP/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/25_MultidimensionalDP/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/25_MultidimensionalDP/)|
 |:---|:---:|:---:|:---:|
 | [1388. Pizza With 3n Slices](https://leetcode.cn/problems/pizza-with-3n-slices) |[Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/25_MultidimensionalDP/LC_1388_PizzaWith3nSlices.java) | [JavaScript]| 
 
-#### 26. 设计(Design)([Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/26_Design/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/26_Design/))
+#### 26. 设计(Design)
 
-| Problem | Swift | Java | JavaScript |
+| Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/26_Design/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/26_Design/)|
 |:---|:---:|:---:|:---:|
 | [604. Design Compressed String Iterator](https://leetcode.cn/problems/design-compressed-string-iterator/) | [Swift❎](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/26_Design/LC_604_Design_Compressed_String_Iterator.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_604_Design_Compressed_String_Iterator.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/26_Design/LC_604_Design_Compressed_String_Iterator.js) | 
 
