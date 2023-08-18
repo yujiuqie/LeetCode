@@ -31,6 +31,7 @@
 
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/2_String/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/2_String/) |
 |:---|:---:|:---:|:---:|
+| [43. Multiply Strings](https://leetcode.cn/problems/multiply-strings/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/2_String/LC_43_MultiplyStrings.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_43_MultiplyStrings.java) | [JavaScript] | 
 | [58. Length of Last Word](https://leetcode.cn/problems/length-of-last-word/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_58_LengthOfLastWord.java) |  [JavaScript] | 
 | [833. Find And Replace in String](https://leetcode.cn/problems/find-and-replace-in-string/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/2_String/LC_833_FindAndReplaceInString.swift) |  [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_833_FindAndReplaceInString.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/2_String/LC_833_FindAndReplaceInString.js) | 
 
@@ -98,7 +99,7 @@
 
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/12_BinaryTreeBFS/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/12_BinaryTreeBFS/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/12_BinaryTreeBFS/)|
 |:---|:---:|:---:|:---:|
-| [272. Closest Binary Search Tree Value II](https://leetcode.cn/problems/closest-binary-search-tree-value-ii/) | [Swift] |  [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/12_BinaryTreeBFS/LC_272_ClosestBinarySearchTreeValueII.java) | [JavaScript] | 
+| [272. Closest Binary Search Tree Value II](https://leetcode.cn/problems/closest-binary-search-tree-value-ii/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/12_BinaryTreeBFS/LC_272_ClosestBinarySearchTreeValueII.java) | [JavaScript] | 
 
 #### 13. 二叉搜索树(Binary Search Tree)
 

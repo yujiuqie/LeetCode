@@ -1,5 +1,8 @@
 import Cocoa
 
+let solution_43 = LC_43_MultiplyStrings()
+solution_43.multiply("123", "456")
+
 var node : TreeNode = TreeNode(5)
 node.left = TreeNode(1)
 node.left?.left = TreeNode(5)
