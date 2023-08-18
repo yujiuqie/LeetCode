@@ -166,17 +166,17 @@
 | [1134. Armstrong Number](https://leetcode.cn/problems/armstrong-number/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/23_Math/LC_1134_ArmstrongNumber.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/23_Math/LC_1134_ArmstrongNumber.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/23_Math/LC_1134_ArmstrongNumber.js)| 
 | [1180. Count Substrings with Only One Distinct Letter](https://leetcode.cn/problems/count-substrings-with-only-one-distinct-letter/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/23_Math/LC_1180_CountSubstringsWithOnlyOneDistinctLetter.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/23_Math/LC_1180_CountSubstringsWithOnlyOneDistinctLetter.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/23_Math/LC_1180_CountSubstringsWithOnlyOneDistinctLetter.js) | 
 
-#### 24. 动态规划(DP)
+#### 24. 动态规划(DP)([Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/24_DP/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/24_DP/))
 
 | Problem | Swift | Java | JavaScript |
 |:---|:---:|:---:|:---:|
-| [] | [Swift] | [Java] | [JavaScript] | 
+| [276. Paint Fence](https://leetcode.cn/problems/paint-fence/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_276_PaintFence.java) | [JavaScript] | 
 
-#### 25. 多维动态规划(Multidimensional DP)
+#### 25. 多维动态规划(Multidimensional DP)([Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/25_MultidimensionalDP/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/25_MultidimensionalDP/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/25_MultidimensionalDP/))
 
 | Problem | Swift | Java | JavaScript |
 |:---|:---:|:---:|:---:|
-| [] | [Swift] | [Java] | [JavaScript] | 
+| [1388. Pizza With 3n Slices](https://leetcode.cn/problems/pizza-with-3n-slices) |[Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/25_MultidimensionalDP/LC_1388_PizzaWith3nSlices.java) | [JavaScript]| 
 
 #### 26. 设计(Design)([Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/26_Design/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/26_Design/))
 
