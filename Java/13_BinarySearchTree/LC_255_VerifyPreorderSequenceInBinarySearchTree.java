@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class Solution_255 {
     public boolean verifyPreorder(int[] preorder) {
         if(preorder == null || preorder.length == 0){
             return true;

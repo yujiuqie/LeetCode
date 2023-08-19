@@ -15,7 +15,7 @@ import java.util.*;
  *     }
  * }
  */
-class Solution {
+class Solution_272 {
     public List<Integer> closestKValues(TreeNode root, double target, int k) {
         Stack<TreeNode> smaller = new Stack<>();
         Stack<TreeNode> larger = new Stack<>();
@@ -65,4 +65,8 @@ class Solution {
 
         return res;
     }
+}
+
+public class LC_272_ClosestBinarySearchTreeValueII extends Solution_272 {
+    
 }
