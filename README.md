@@ -89,6 +89,7 @@
 |:---|:---:|:---:|:---:|
 | [1490. Clone N-ary Tree](https://leetcode.cn/problems/clone-n-ary-tree/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/11_TreeGeneral/LC_1490_CloneNAryTree.java) | [JavaScript] | 
 | [1506. Find Root of N-Ary Tree](https://leetcode.cn/problems/find-root-of-n-ary-tree/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/11_TreeGeneral/LC_1506_FindRootOfNAryTree.java) | [JavaScript] | 
+| [1522. Diameter of N-Ary Tree](https://leetcode.cn/problems/diameter-of-n-ary-tree/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/11_TreeGeneral/LC_1522_DiameterOfNAryTree.java) | [JavaScript] | 
 
 #### 12. 二叉树(Binary Tree General)
 
