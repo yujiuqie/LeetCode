@@ -87,7 +87,8 @@
 
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/11_TreeGeneral/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/11_TreeGeneral/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/11_TreeGeneral/)|
 |:---|:---:|:---:|:---:|
-| [] | [Swift] | [Java] | [JavaScript] | 
+| [1490. Clone N-ary Tree](https://leetcode.cn/problems/clone-n-ary-tree/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/11_TreeGeneral/LC_1490_CloneNAryTree.java) | [JavaScript] | 
+| [1506. Find Root of N-Ary Tree](https://leetcode.cn/problems/find-root-of-n-ary-tree/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/11_TreeGeneral/LC_1506_FindRootOfNAryTree.java) | [JavaScript] | 
 
 #### 12. 二叉树(Binary Tree General)
 
