@@ -87,7 +87,7 @@
 
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/11_TreeGeneral/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/11_TreeGeneral/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/11_TreeGeneral/)|
 |:---|:---:|:---:|:---:|
-| [582. Kill Process](https://leetcode.cn/problems/kill-process/) | [Swift] | [Java][Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/11_TreeGeneral/LC_582_KillProcess.java) | [JavaScript] | 
+| [582. Kill Process](https://leetcode.cn/problems/kill-process/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/11_TreeGeneral/LC_582_KillProcess.java) | [JavaScript] | 
 | [1490. Clone N-ary Tree](https://leetcode.cn/problems/clone-n-ary-tree/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/11_TreeGeneral/LC_1490_CloneNAryTree.java) | [JavaScript] | 
 | [1506. Find Root of N-Ary Tree](https://leetcode.cn/problems/find-root-of-n-ary-tree/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/11_TreeGeneral/LC_1506_FindRootOfNAryTree.java) | [JavaScript] | 
 | [1522. Diameter of N-Ary Tree](https://leetcode.cn/problems/diameter-of-n-ary-tree/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/11_TreeGeneral/LC_1522_DiameterOfNAryTree.java) | [JavaScript] | 
