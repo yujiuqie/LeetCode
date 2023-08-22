@@ -39,6 +39,7 @@
 
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/3_TwoPointers/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/3_TwoPointers/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/3_TwoPointers/) |
 |:---|:---:|:---:|:---:|
+| [849. Maximize Distance to Closest Person](https://leetcode.cn/problems/maximize-distance-to-closest-person/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/3_TwoPointers/LC_849_MaximizeDistanceToClosestPerson.java) | [JavaScript] | 
 | [2337. Move Pieces to Obtain a String](https://leetcode.cn/problems/move-pieces-to-obtain-a-string/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/3_TwoPointers/LC_2337_MovePiecesToObtainAString.java) | [JavaScript] | 
 
 #### 滑动窗口(Sliding Window)
@@ -119,6 +120,8 @@
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/14_Graph/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/14_Graph/)|
 |:---|:---:|:---:|:---:|
 | [277. Find the Celebrity](https://leetcode.cn/problems/find-the-celebrity/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_277_FindTheCelebrity.java)  | [JavaScript] | 
+| [323. Number of Connected Components in an Undirected Graph]() | [Swift] |  [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/) | [JavaScript] | 
+
 
 #### 字典树(Trie)
 
@@ -173,13 +176,9 @@
 
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/24_DP/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/24_DP/) |
 |:---|:---:|:---:|:---:|
+| [256. Paint House](https://leetcode.cn/problems/paint-house/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_256_PaintHouse.java) | [JavaScript] | 
 | [276. Paint Fence](https://leetcode.cn/problems/paint-fence/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_276_PaintFence.java) | [JavaScript] | 
-
-#### 多维动态规划(Multidimensional DP)
-
-| Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/25_MultidimensionalDP/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/25_MultidimensionalDP/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/25_MultidimensionalDP/)|
-|:---|:---:|:---:|:---:|
-| [1388. Pizza With 3n Slices](https://leetcode.cn/problems/pizza-with-3n-slices) |[Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/25_MultidimensionalDP/LC_1388_PizzaWith3nSlices.java) | [JavaScript]| 
+| [1388. Pizza With 3n Slices](https://leetcode.cn/problems/pizza-with-3n-slices) |[Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_1388_PizzaWith3nSlices.java) | [JavaScript]| 
 
 #### 设计(Design)
 

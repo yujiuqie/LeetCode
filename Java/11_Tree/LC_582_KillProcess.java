@@ -1,4 +1,6 @@
-class Solution {
+import java.util.*;
+
+class Solution_582 {
     public List<Integer> killProcess(List<Integer> pid, List<Integer> ppid, int kill) {
         HashMap<Integer, List<Integer>> map = new HashMap<>();
         for(int i = 0; i < ppid.size(); i++){
@@ -24,8 +26,4 @@ class Solution {
 
         return res;
     }
-}
-
-public class LC_ {
-    
 }
