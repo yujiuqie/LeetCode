@@ -161,9 +161,9 @@
 
 #### 位运算(Bit Manipulation)
 
-| Problem | Swift | Java | JavaScript |
+| Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/22_BitManipulation/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/22_BitManipulation/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/22_BitManipulation/)|
 |:---|:---:|:---:|:---:|
-| [] | [Swift] | [Java] | [JavaScript] | 
+| [231. Power of Two](https://leetcode.cn/problems/power-of-two/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/22_BitManipulation/LC_231_PowerOfTwo.java)| [JavaScript] | 
 
 #### 数学(Math)
 
