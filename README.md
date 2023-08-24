@@ -154,9 +154,9 @@
 
 #### 堆(Heap)
 
-| Problem | Swift | Java | JavaScript |
+| Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/21_Heap/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/21_Heap/)|
 |:---|:---:|:---:|:---:|
-| [] | [Swift] | [Java] | [JavaScript] | 
+| [1167. Minimum Cost to Connect Sticks](https://leetcode.cn/problems/minimum-cost-to-connect-sticks/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap/LC_1167_MinimumCostToConnectSticks.java)| [JavaScript] | 
 
 #### 位运算(Bit Manipulation)
 
