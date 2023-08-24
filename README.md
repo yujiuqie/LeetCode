@@ -120,8 +120,7 @@
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/14_Graph/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/14_Graph/)|
 |:---|:---:|:---:|:---:|
 | [277. Find the Celebrity](https://leetcode.cn/problems/find-the-celebrity/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_277_FindTheCelebrity.java)  | [JavaScript] | 
-| [323. Number of Connected Components in an Undirected Graph]() | [Swift] |  [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/) | [JavaScript] | 
-
+| [1267. Count Servers that Communicate](https://leetcode.cn/problems/count-servers-that-communicate/) | [Swift] |  [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_1267_CountServersThatCommunicate.java) | [JavaScript] |
 
 #### 字典树(Trie)
 
@@ -178,6 +177,7 @@
 |:---|:---:|:---:|:---:|
 | [256. Paint House](https://leetcode.cn/problems/paint-house/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_256_PaintHouse.java) | [JavaScript] | 
 | [276. Paint Fence](https://leetcode.cn/problems/paint-fence/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_276_PaintFence.java) | [JavaScript] | 
+| [651. 4 Keys Keyboard](https://leetcode.cn/problems/4-keys-keyboard/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_651_4KeysKeyboard.java)| [JavaScript] | 
 | [1388. Pizza With 3n Slices](https://leetcode.cn/problems/pizza-with-3n-slices) |[Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_1388_PizzaWith3nSlices.java) | [JavaScript]| 
 
 #### 设计(Design)
