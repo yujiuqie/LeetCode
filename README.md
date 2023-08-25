@@ -104,6 +104,8 @@
 | [549. Binary Tree Longest Consecutive Sequence](https://leetcode.cn/problems/binary-tree-longest-consecutive-sequence-ii/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/12_BinaryTree/LC_549_BinaryTreeLongestConsecutiveSequenceII.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/12_BinaryTree/LC_549_BinaryTreeLongestConsecutiveSequenceII.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/12_BinaryTree/LC_549_BinaryTreeLongestConsecutiveSequenceII.js)|
 | [617. Merge Two Binary Trees](https://leetcode.cn/problems/merge-two-binary-trees/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/12_BinaryTree/LC_617_MergeTwoBinaryTrees.swift) |  [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/12_BinaryTree/LC_617_MergeTwoBinaryTrees.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/12_BinaryTree/LC_617_MergeTwoBinaryTrees.js) | 
 | [1120. Maximum Average Subtree](https://leetcode.cn/problems/maximum-average-subtree/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/12_BinaryTree/LC_1120_MaximumAverageSubtree.swift) |  [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/12_BinaryTree/LC_1120_MaximumAverageSubtree.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/12_BinaryTree/LC_1120_MaximumAverageSubtree.js) | 
+| [1448. Count Good Nodes in Binary Tree](https://leetcode.cn/problems/count-good-nodes-in-binary-tree/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/12_BinaryTree/LC_1448_CountGoodNodesInBinaryTree.java)| [JavaScript] | 
+
 
 #### 二叉搜索树(Binary Search Tree)
 
@@ -119,8 +121,11 @@
 
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/14_Graph/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/14_Graph/)|
 |:---|:---:|:---:|:---:|
+| [200. Number of Islands](https://leetcode.cn/problems/number-of-islands/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_200_NumberOfIslands.java)| [JavaScript] | 
 | [277. Find the Celebrity](https://leetcode.cn/problems/find-the-celebrity/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_277_FindTheCelebrity.java)  | [JavaScript] | 
-| [1267. Count Servers that Communicate](https://leetcode.cn/problems/count-servers-that-communicate/) | [Swift] |  [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_1267_CountServersThatCommunicate.java) | [JavaScript] |
+| [305. Number of Islands II](https://leetcode.cn/problems/number-of-islands-ii/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_305_NumberOfIslandsII.java)| [JavaScript] | 
+| [323. Number of Connected Components in an Undirected Graph](https://leetcode.cn/problems/number-of-connected-components-in-an-undirected-graph/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_323_NumberOfConnectedComponentsInAnUndirectedGraph.java)| [JavaScript] | 
+| [1267. Count Servers that Communicate](https://leetcode.cn/problems/count-servers-that-communicate/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_1267_CountServersThatCommunicate.java) | [JavaScript] |
 
 #### 字典树(Trie)
 

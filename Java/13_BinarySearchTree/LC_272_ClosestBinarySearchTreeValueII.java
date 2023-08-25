@@ -15,6 +15,20 @@ import java.util.*;
  *     }
  * }
  */
+
+  public class TreeNode {
+      int val;
+      TreeNode left;
+      TreeNode right;
+      TreeNode() {}
+      TreeNode(int val) { this.val = val; }
+      TreeNode(int val, TreeNode left, TreeNode right) {
+          this.val = val;
+          this.left = left;
+          this.right = right;
+      }
+  }
+
 class Solution_272 {
     public List<Integer> closestKValues(TreeNode root, double target, int k) {
         Stack<TreeNode> smaller = new Stack<>();
@@ -31,7 +45,7 @@ class Solution_272 {
             }
         }
 
-        List<Integer> res = new ArrayList();
+        List<Integer> res = new ArrayList<>();
 
         while(k > 0){
             double left = smaller.isEmpty() ? Double.MAX_VALUE : target - smaller.peek().val;
