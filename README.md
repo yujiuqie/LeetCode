@@ -123,6 +123,8 @@
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/14_Graph/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/14_Graph/)|
 |:---|:---:|:---:|:---:|
 | [277. Find the Celebrity](https://leetcode.cn/problems/find-the-celebrity/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_277_FindTheCelebrity.java)  | [JavaScript] | 
+| [1059. All Paths from Source Lead to Destination](https://leetcode.cn/problems/all-paths-from-source-lead-to-destination/) | [Swift] |[Java🇩](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_1059_AllPathsFromSourceLeadToDestination.java) | [JavaScript] | 
+| [1236. Web Crawler](https://leetcode.cn/problems/web-crawler/) | [Swift] | [Java🇧](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_1236_WebCrawler.java)| [JavaScript] |
 | [1267. Count Servers that Communicate](https://leetcode.cn/problems/count-servers-that-communicate/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_1267_CountServersThatCommunicate.java) | [JavaScript] |
 
 #### 并查集(UFDS)
@@ -200,3 +202,5 @@
 ----
 
 ❎ - 表示`环境原因错误`而非`算法逻辑错误`。本地运行可以通过，但 LeetCode 运行会报错误。
+🇧 - 表示`广度优先遍历`解法。
+🇩 - 表示`深度优先遍历`解法。
