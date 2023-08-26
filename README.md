@@ -63,9 +63,9 @@
 
 #### 区间(Intervals)
 
-| Problem | Swift | Java | JavaScript |
+| Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/7_Intervals/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/7_Intervals/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/7_Intervals/) |
 |:---|:---:|:---:|:---:|
-| [] | [Swift] | [Java] | [JavaScript] | 
+| [56. Merge Intervals](https://leetcode.cn/problems/merge-intervals/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/7_Intervals/LC_56_MergeIntervals.java) | [JavaScript] | 
 
 #### 栈(Stack)
 
