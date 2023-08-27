@@ -165,6 +165,7 @@
 
 | Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/20_BinarySearch/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/20_BinarySearch/)|
 |:---|:---:|:---:|:---:|
+| [1150. Check If a Number Is Majority Element in a Sorted Array](https://leetcode.cn/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/LC_1150_CheckIfANumberIsMajorityElementInASortedArray.java)| [JavaScript] | 
 | [1228. Missing Number In Arithmetic Progression](https://leetcode.cn/problems/missing-number-in-arithmetic-progression/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/20_BinarySearch/LC_1228_MissingNumberInArithmeticProgression.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/LC_1228_MissingNumberInArithmeticProgression.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/20_BinarySearch/LC_1228_MissingNumberInArithmeticProgression.js) | 
 
 #### 堆(Heap)
