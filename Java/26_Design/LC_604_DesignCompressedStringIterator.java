@@ -29,6 +29,6 @@ class StringIterator {
     }
 }
 
-public class LC_604_Design_Compressed_String_Iterator {
+public class LC_604_DesignCompressedStringIterator {
     
 }

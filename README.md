@@ -147,9 +147,17 @@
 
 #### 回溯(Backtracking)
 
-| Problem | Swift | Java | JavaScript |
+（本列表并非全部严格意义的回溯算法实现，列表也包含部分递归和深度优先搜索算法实现）
+
+* 🇷递归（Recursion）：递归是一种算法，在函数中调用自身的方法称为递归，是一种基于编程语言的实现方式。
+* 🇩深度优先搜索（DFS）：深度优先搜索是一种算法思想，也是一种访问所有节点的方式，通常已经访问过的节点不再访问，所有点仅访问一次。深度优先搜索可以使用递归方式实现，也可以不使用递归方式实现。与深度优搜索（DFS）对应的是广度优先搜索（BFS）。
+* 🅱️回溯（Backtracking）：回溯是一种算法思想，常用递归方式来实现，同时也是深度优先搜索的一种特例，与深度优先搜索的区别在于已经访问过的点可能再次访问，也可能存在没有被访问过的点（在满足一定条件后可以直接返回上一层）。
+
+| Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/17_Backtracking/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/17_Backtracking/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/17_Backtracking/)|
 |:---|:---:|:---:|:---:|
-| [] | [Swift] | [Java] | [JavaScript] | 
+| [247. Strobogrammatic Number II](https://leetcode.cn/problems/strobogrammatic-number-ii/) | [Swift] | [Java🇷](https://github.com/yujiuqie/Leetcode/blob/master/Java/17_Backtracking/LC_247_StrobogrammaticNumberII.java) | [JavaScript] |
+| [254. Factor Combinations](https://leetcode.cn/problems/factor-combinations/) | [Swift] | [Java🅱️](https://github.com/yujiuqie/Leetcode/blob/master/Java/17_Backtracking/LC_254_FactorCombinations.java) | [JavaScript] | 
+| [823. Binary Trees With Factors](https://leetcode.cn/problems/binary-trees-with-factors/) | [Swift] | [Java🇷](https://github.com/yujiuqie/Leetcode/blob/master/Java/17_Backtracking/LC_823_BinaryTreesWithFactors.java) | [JavaScript] | 
 
 #### 分治(Divide And Conquer)
 
@@ -202,10 +210,13 @@
 
 | Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/26_Design/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/26_Design/)|
 |:---|:---:|:---:|:---:|
-| [604. Design Compressed String Iterator](https://leetcode.cn/problems/design-compressed-string-iterator/) | [Swift❎](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/26_Design/LC_604_Design_Compressed_String_Iterator.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_604_Design_Compressed_String_Iterator.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/26_Design/LC_604_Design_Compressed_String_Iterator.js) | 
+| [604. Design Compressed String Iterator](https://leetcode.cn/problems/design-compressed-string-iterator/) | [Swift❎](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/26_Design/LC_604_DesignCompressedStringIterator.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_604_DesignCompressedStringIterator.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/26_Design/LC_604_DesignCompressedStringIterator.js) | 
+| [1244. Design A Leaderboard](https://leetcode.cn/problems/design-a-leaderboard/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_1244_DesignALeaderboard) | [JavaScript] | 
 
 ----
 
 * ❎ - 表示`环境原因错误`而非`算法逻辑错误`。本地运行可以通过，但 LeetCode 运行会报错误。
-* 🇧 - 表示`广度优先遍历`解法。
-* 🇩 - 表示`深度优先遍历`解法。
+* 🇧 - 表示`广度优先搜索`解法。
+* 🇩 - 表示`深度优先搜索`解法。
+* 🇷 - 表示`递归`解法。
+* 🅱️ - 表示`回溯`解法。
