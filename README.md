@@ -25,6 +25,7 @@
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/1_Array/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/1_Array/) |
 |:---|:---:|:---:|:---:|
 | [1. Two Sum](https://leetcode.cn/problems/two-sum/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/1_Array/LC_1_TwoSum.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/LC_1_TwoSum.java)  | [JavaScript] | 
+| [1060. Missing Element in Sorted Array](https://leetcode.cn/problems/missing-element-in-sorted-array/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/LC_1060_MissingElementInSortedArray.java) | [JavaScript] | 
 | [2682. Find the Losers of the Circular Game](https://leetcode.cn/problems/find-the-losers-of-the-circular-game/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/1_Array/LC_2682_FindTheLosersOfTheCircularGame.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/LC_2682_FindTheLosersOfTheCircularGame.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/1_Array/LC_2682_FindTheLosersOfTheCircularGame.js) | 
 
 #### 字符串(String)
