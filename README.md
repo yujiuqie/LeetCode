@@ -126,6 +126,8 @@
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/14_Graph/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/14_Graph/)|
 |:---|:---:|:---:|:---:|
 | [277. Find the Celebrity](https://leetcode.cn/problems/find-the-celebrity/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_277_FindTheCelebrity.java) | [JavaScript] | 
+| [490. The Maze](https://leetcode.cn/problems/the-maze/) | [Swift] |[Java🇧](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_490_TheMaze.java) | [JavaScript] | 
+| [505. The Maze II](https://leetcode.cn/problems/the-maze-ii/) | [Swift] |[Java🇧](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_505_TheMazeII.java) | [JavaScript] | 
 | [694. Number of Distinct Islands](https://leetcode.cn/problems/number-of-distinct-islands/) | [Swift] |[Java🇩](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_694_NumberOfDistinctIslands.java) | [JavaScript] | 
 | [1059. All Paths from Source Lead to Destination](https://leetcode.cn/problems/all-paths-from-source-lead-to-destination/) | [Swift] |[Java🇩](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_1059_AllPathsFromSourceLeadToDestination.java) | [JavaScript] | 
 | [1136. Parallel Courses](https://leetcode.cn/problems/parallel-courses) | [Swift] | [Java🇧](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_1136_ParallelCourses.javaa) | [JavaScript] | 
@@ -208,7 +210,6 @@
 | [651. 4 Keys Keyboard](https://leetcode.cn/problems/4-keys-keyboard/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_651_4KeysKeyboard.java)| [JavaScript] | 
 | [1388. Pizza With 3n Slices](https://leetcode.cn/problems/pizza-with-3n-slices) |[Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_1388_PizzaWith3nSlices.java) | [JavaScript]| 
 | [2240. Number of Ways to Buy Pens and Pencils](https://leetcode.cn/problems/number-of-ways-to-buy-pens-and-pencils/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_2240_NumberOfWaysToBuyPensAndPencils.java) | [JavaScript] | 
-
 
 #### 设计(Design)
 
