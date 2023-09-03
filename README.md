@@ -37,6 +37,7 @@
 | [43. Multiply Strings](https://leetcode.cn/problems/multiply-strings/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/2_String/LC_43_MultiplyStrings.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_43_MultiplyStrings.java) | [JavaScript] | 
 | [58. Length of Last Word](https://leetcode.cn/problems/length-of-last-word/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_58_LengthOfLastWord.java) |  [JavaScript] | 
 | [833. Find And Replace in String](https://leetcode.cn/problems/find-and-replace-in-string/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/2_String/LC_833_FindAndReplaceInString.swift) |  [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_833_FindAndReplaceInString.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/2_String/LC_833_FindAndReplaceInString.js) | 
+|[1768. Merge Strings Alternately](https://leetcode.cn/problems/merge-strings-alternately/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_1768_MergeStringsAlternately.java) | [JavaScript] | 
 
 #### 双指针(Two Pointers)
 

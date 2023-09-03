@@ -1,8 +1,6 @@
-import java.util.*;
-
 class parseLCName {
     public static void main(String[] args) {
-        String name = "1004. Max Consecutive Ones III";
+        String name = "1768. Merge Strings Alternately";
         printJava(name);
         // printSwift(name);
         // printJavaScript(name);
