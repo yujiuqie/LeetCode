@@ -141,18 +141,18 @@
 
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/14_Graph_BFS/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_BFS/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/14_Graph_BFS/)|
 |:---|:---:|:---:|:---:|
-| [286. Walls and Gates](https://leetcode.cn/problems/walls-and-gates/) | [Swift] ||[Java🇧](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_BFS/LC_286_WallsAndGates.java) | [JavaScript] | 
+| [286. Walls and Gates](https://leetcode.cn/problems/walls-and-gates/) | [Swift] |[Java🇧](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_BFS/LC_286_WallsAndGates.java) | [JavaScript] | 
 | [490. The Maze](https://leetcode.cn/problems/the-maze/) | [Swift] |[Java🇧](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_BFS/LC_490_TheMaze.java) | [JavaScript] | 
 | [505. The Maze II](https://leetcode.cn/problems/the-maze-ii/) | [Swift] |[Java🇧](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_BFS/LC_505_TheMazeII.java) | [JavaScript] | 
 | [1136. Parallel Courses](https://leetcode.cn/problems/parallel-courses) | [Swift] | [Java🇧](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_BFS/LC_1136_ParallelCourses.javaa) | [JavaScript] | 
-| [1197. Minimum Knight Moves](https://leetcode.cn/problems/minimum-knight-moves/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_BFS/LC_1197_MinimumKnightMoves.java) [JavaScript] |
+| [1197. Minimum Knight Moves](https://leetcode.cn/problems/minimum-knight-moves/) | [Swift] | [Java🇧](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_BFS/LC_1197_MinimumKnightMoves.java) | [JavaScript] |
 | [1236. Web Crawler](https://leetcode.cn/problems/web-crawler/) | [Swift] | [Java🇧](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_BFS/LC_1236_WebCrawler.java)| [JavaScript] |
 
 #### 图-并查集(Graph-UFDS)
 
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/15_UFDS/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/15_UFDS/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/15_UFDS/)|
 |:---|:---:|:---:|:---:|
-| [200. Number of Islands](https://leetcode.cn/problems/number-of-islands/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/15_UFDS/LC_200_NumberOfIslands.java)| [JavaScript] | 
+| [200. Number of Islands](https://leetcode.cn/problems/number-of-islands/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/15_UFDS/LC_200_NumberOfIslands.java) | [JavaScript] | 
 | [305. Number of Islands II](https://leetcode.cn/problems/number-of-islands-ii/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/15_UFDS/LC_305_NumberOfIslandsII.java)| [JavaScript] | 
 | [323. Number of Connected Components in an Undirected Graph](https://leetcode.cn/problems/number-of-connected-components-in-an-undirected-graph/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/15_UFDS/LC_323_NumberOfConnectedComponentsInAnUndirectedGraph.java)| [JavaScript] | 
 
