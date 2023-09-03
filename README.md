@@ -26,7 +26,8 @@
 |:---|:---:|:---:|:---:|
 | [1. Two Sum](https://leetcode.cn/problems/two-sum/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/1_Array/LC_1_TwoSum.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/LC_1_TwoSum.java)  | [JavaScript] | 
 | [1060. Missing Element in Sorted Array](https://leetcode.cn/problems/missing-element-in-sorted-array/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/LC_1060_MissingElementInSortedArray.java) | [JavaScript] | 
-| [1921. Eliminate Maximum Number of Monsters]() | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/LC_1921_EliminateMaximumNumberOfMonsters.java) | [JavaScript] | 
+| [1921. Eliminate Maximum Number of Monsters](https://leetcode.cn/problems/eliminate-maximum-number-of-monsters/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/LC_1921_EliminateMaximumNumberOfMonsters.java) | [JavaScript] | 
+| [2511. Maximum Enemy Forts That Can Be Captured](https://leetcode.cn/problems/maximum-enemy-forts-that-can-be-captured/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/LC_2511_MaximumEnemyFortsThatCanBeCaptured.java) | [JavaScript] | 
 | [2682. Find the Losers of the Circular Game](https://leetcode.cn/problems/find-the-losers-of-the-circular-game/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/1_Array/LC_2682_FindTheLosersOfTheCircularGame.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/LC_2682_FindTheLosersOfTheCircularGame.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/1_Array/LC_2682_FindTheLosersOfTheCircularGame.js) | 
 
 #### 字符串(String)
@@ -127,15 +128,27 @@
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/14_Graph/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/14_Graph/)|
 |:---|:---:|:---:|:---:|
 | [277. Find the Celebrity](https://leetcode.cn/problems/find-the-celebrity/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_277_FindTheCelebrity.java) | [JavaScript] | 
-| [490. The Maze](https://leetcode.cn/problems/the-maze/) | [Swift] |[Java🇧](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_490_TheMaze.java) | [JavaScript] | 
-| [505. The Maze II](https://leetcode.cn/problems/the-maze-ii/) | [Swift] |[Java🇧](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_505_TheMazeII.java) | [JavaScript] | 
-| [694. Number of Distinct Islands](https://leetcode.cn/problems/number-of-distinct-islands/) | [Swift] |[Java🇩](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_694_NumberOfDistinctIslands.java) | [JavaScript] | 
-| [1059. All Paths from Source Lead to Destination](https://leetcode.cn/problems/all-paths-from-source-lead-to-destination/) | [Swift] |[Java🇩](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_1059_AllPathsFromSourceLeadToDestination.java) | [JavaScript] | 
-| [1136. Parallel Courses](https://leetcode.cn/problems/parallel-courses) | [Swift] | [Java🇧](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_1136_ParallelCourses.javaa) | [JavaScript] | 
-| [1236. Web Crawler](https://leetcode.cn/problems/web-crawler/) | [Swift] | [Java🇧](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_1236_WebCrawler.java)| [JavaScript] |
 | [1267. Count Servers that Communicate](https://leetcode.cn/problems/count-servers-that-communicate/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_1267_CountServersThatCommunicate.java) | [JavaScript] |
 
-#### 并查集(UFDS)
+#### 图-深度优先搜索(Graph-DFS)
+
+| Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/14_Graph_DFS/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_DFS/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/14_Graph_DFS/)|
+|:---|:---:|:---:|:---:|
+| [694. Number of Distinct Islands](https://leetcode.cn/problems/number-of-distinct-islands/) | [Swift] |[Java🇩](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_DFS/LC_694_NumberOfDistinctIslands.java) | [JavaScript] | 
+| [1059. All Paths from Source Lead to Destination](https://leetcode.cn/problems/all-paths-from-source-lead-to-destination/) | [Swift] |[Java🇩](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_DFS/LC_1059_AllPathsFromSourceLeadToDestination.java) | [JavaScript] | 
+
+#### 图-广度优先搜索(Graph-BFS)
+
+| Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/14_Graph_BFS/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_BFS/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/14_Graph_BFS/)|
+|:---|:---:|:---:|:---:|
+| [286. Walls and Gates](https://leetcode.cn/problems/walls-and-gates/) | [Swift] ||[Java🇧](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_BFS/LC_286_WallsAndGates.java) | [JavaScript] | 
+| [490. The Maze](https://leetcode.cn/problems/the-maze/) | [Swift] |[Java🇧](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_BFS/LC_490_TheMaze.java) | [JavaScript] | 
+| [505. The Maze II](https://leetcode.cn/problems/the-maze-ii/) | [Swift] |[Java🇧](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_BFS/LC_505_TheMazeII.java) | [JavaScript] | 
+| [1136. Parallel Courses](https://leetcode.cn/problems/parallel-courses) | [Swift] | [Java🇧](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_BFS/LC_1136_ParallelCourses.javaa) | [JavaScript] | 
+| [1197. Minimum Knight Moves](https://leetcode.cn/problems/minimum-knight-moves/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_BFS/LC_1197_MinimumKnightMoves.java) [JavaScript] |
+| [1236. Web Crawler](https://leetcode.cn/problems/web-crawler/) | [Swift] | [Java🇧](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_BFS/LC_1236_WebCrawler.java)| [JavaScript] |
+
+#### 图-并查集(Graph-UFDS)
 
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/15_UFDS/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/15_UFDS/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/15_UFDS/)|
 |:---|:---:|:---:|:---:|
@@ -216,6 +229,8 @@
 
 | Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/26_Design/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/26_Design/)|
 |:---|:---:|:---:|:---:|
+| [271. Encode and Decode Strings](https://leetcode.cn/problems/encode-and-decode-strings/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_271_EncodeAndDecodeStrings.java) | [JavaScript] | 
+| [281. Zigzag Iterator](https://leetcode.cn/problems/zigzag-iterator/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_281_ZigzagIterator.java) | [JavaScript] | 
 | [604. Design Compressed String Iterator](https://leetcode.cn/problems/design-compressed-string-iterator/) | [Swift❎](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/26_Design/LC_604_DesignCompressedStringIterator.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_604_DesignCompressedStringIterator.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/26_Design/LC_604_DesignCompressedStringIterator.js) | 
 | [1244. Design A Leaderboard](https://leetcode.cn/problems/design-a-leaderboard/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_1244_DesignALeaderboard) | [JavaScript] | 
 
