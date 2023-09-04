@@ -1,6 +1,6 @@
 class parseLCName {
     public static void main(String[] args) {
-        String name = "1768. Merge Strings Alternately";
+        String name = "1071. Greatest Common Divisor of Strings";
         printJava(name);
         // printSwift(name);
         // printJavaScript(name);
