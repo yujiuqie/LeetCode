@@ -1,6 +1,6 @@
 class parseLCName {
     public static void main(String[] args) {
-        String name = "1071. Greatest Common Divisor of Strings";
+        String name = "2605. Form Smallest Number From Two Digit Arrays";
         printJava(name);
         // printSwift(name);
         // printJavaScript(name);
@@ -8,17 +8,17 @@ class parseLCName {
 
     private static void printJava(String enName) {
         String[] res = parse(enName);
-        System.out.println("|[" + res[0] + "](" + res[1] + ")| [Swift] | [Java](LC_" + res[2] + ".java) | [JavaScript] | ");
+        System.out.println("| [" + res[0] + "](" + res[1] + ")| [Swift] | [Java](LC_" + res[2] + ".java) | [JavaScript] | ");
     }
 
     private static void printSwift(String enName) {
         String[] res = parse(enName);
-        System.out.println("|[" + res[0] + "](" + res[1] + ")| [Swift](LC_" + res[2] + ".swift) | [Java] | [JavaScript] | ");
+        System.out.println("| [" + res[0] + "](" + res[1] + ")| [Swift](LC_" + res[2] + ".swift) | [Java] | [JavaScript] | ");
     }
 
     private static void printJavaScript(String enName) {
         String[] res = parse(enName);
-        System.out.println("|[" + res[0] + "](" + res[1] + ")| [Swift] | [Java] | [JavaScript](LC_" + res[2] + ".js) | ");
+        System.out.println("| [" + res[0] + "](" + res[1] + ")| [Swift] | [Java] | [JavaScript](LC_" + res[2] + ".js) | ");
     }
 
     private static String[] parse(String enName) {
