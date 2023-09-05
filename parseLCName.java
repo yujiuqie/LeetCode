@@ -1,6 +1,6 @@
 class parseLCName {
     public static void main(String[] args) {
-        String name = "643. Maximum Average Subarray I";
+        String name = "2215. Find the Difference of Two Arrays";
         printJava(name);
         // printSwift(name);
         // printJavaScript(name);
