@@ -1,6 +1,6 @@
 class parseLCName {
     public static void main(String[] args) {
-        String name = "2605. Form Smallest Number From Two Digit Arrays";
+        String name = "643. Maximum Average Subarray I";
         printJava(name);
         // printSwift(name);
         // printJavaScript(name);

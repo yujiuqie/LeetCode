@@ -51,9 +51,9 @@
 
 #### 滑动窗口(Sliding Window)
 
-| Problem | Swift | Java | JavaScript |
+| Problem  | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/4_SlidingWindow/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/4_SlidingWindow/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/4_SlidingWindow/) |
 |:---|:---:|:---:|:---:|
-| [] | [Swift] | [Java] | [JavaScript] | 
+| [643. Maximum Average Subarray I](https://leetcode.cn/problems/maximum-average-subarray-i/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/4_SlidingWindow/LC_643_MaximumAverageSubarrayI.java) | [JavaScript] | 
 
 #### 哈希表(Hash)
 
