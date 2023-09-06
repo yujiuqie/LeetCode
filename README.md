@@ -1,3 +1,5 @@
+[TOC] 
+
 # LeetCode
 
 ----
@@ -56,7 +58,7 @@
 
 #### 哈希表(Hash)
 
-| Problem || [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/5_Hash/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/5_Hash/) |
+| Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/5_Hash/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/5_Hash/) |
 |:---|:---:|:---:|:---:|
 | [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.cn/problems/form-smallest-number-from-two-digit-arrays/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/LC_2605_FormSmallestNumberFromTwoDigitArrays.java) | [JavaScript] | 
 
@@ -73,12 +75,11 @@
 | [56. Merge Intervals](https://leetcode.cn/problems/merge-intervals/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/7_Intervals/LC_56_MergeIntervals.java) | [JavaScript] | 
 | [57. Insert Interval](https://leetcode.cn/problems/insert-interval/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/7_Intervals/LC_57_InsertInterval.java) | [JavaScript] | 
 
-
 #### 栈(Stack)
 
-| Problem | Swift | Java | JavaScript |
+| Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/8_Stack/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/8_Stack/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/8_Stack/) |
 |:---|:---:|:---:|:---:|
-| [] | [Swift] | [Java] | [JavaScript] | 
+| [2390. Removing Stars From a String](https://leetcode.cn/problems/removing-stars-from-a-string/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/8_Stack/LC_2390_RemovingStarsFromAString.java) | [JavaScript] | 
 
 #### 队列(Queue)
 
@@ -112,8 +113,8 @@
 | [549. Binary Tree Longest Consecutive Sequence](https://leetcode.cn/problems/binary-tree-longest-consecutive-sequence-ii/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/12_BinaryTree/LC_549_BinaryTreeLongestConsecutiveSequenceII.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/12_BinaryTree/LC_549_BinaryTreeLongestConsecutiveSequenceII.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/12_BinaryTree/LC_549_BinaryTreeLongestConsecutiveSequenceII.js)|
 | [617. Merge Two Binary Trees](https://leetcode.cn/problems/merge-two-binary-trees/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/12_BinaryTree/LC_617_MergeTwoBinaryTrees.swift) |  [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/12_BinaryTree/LC_617_MergeTwoBinaryTrees.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/12_BinaryTree/LC_617_MergeTwoBinaryTrees.js) | 
 | [1120. Maximum Average Subtree](https://leetcode.cn/problems/maximum-average-subtree/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/12_BinaryTree/LC_1120_MaximumAverageSubtree.swift) |  [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/12_BinaryTree/LC_1120_MaximumAverageSubtree.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/12_BinaryTree/LC_1120_MaximumAverageSubtree.js) | 
+| [1123. Lowest Common Ancestor of Deepest Leaves](https://leetcode.cn/problems/lowest-common-ancestor-of-deepest-leaves/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/12_BinaryTree/LC_1123_LowestCommonAncestorOfDeepestLeaves.java) | [JavaScript] | 
 | [1448. Count Good Nodes in Binary Tree](https://leetcode.cn/problems/count-good-nodes-in-binary-tree/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/12_BinaryTree/LC_1448_CountGoodNodesInBinaryTree.java)| [JavaScript] | 
-
 
 #### 二叉搜索树(Binary Search Tree)
 

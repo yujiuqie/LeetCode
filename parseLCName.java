@@ -1,6 +1,6 @@
 class parseLCName {
     public static void main(String[] args) {
-        String name = "2215. Find the Difference of Two Arrays";
+        String name = "2390. Removing Stars From a String";
         printJava(name);
         // printSwift(name);
         // printJavaScript(name);
