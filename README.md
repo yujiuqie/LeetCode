@@ -81,9 +81,9 @@
 
 #### 队列(Queue)
 
-| Problem | Swift | Java | JavaScript |
+| Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/9_Queue/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/9_Queue/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/9_Queue/) |
 |:---|:---:|:---:|:---:|
-| [] | [Swift] | [Java] | [JavaScript] | 
+| [933. Number of Recent Calls](https://leetcode.cn/problems/number-of-recent-calls/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/9_Queue/LC_933_NumberOfRecentCalls.java) | [JavaScript] |
 
 #### 链表(Linked List)
 

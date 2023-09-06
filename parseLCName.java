@@ -1,6 +1,6 @@
 class parseLCName {
     public static void main(String[] args) {
-        String name = "2390. Removing Stars From a String";
+        String name = "933. Number of Recent Calls";
         printJava(name);
         // printSwift(name);
         // printJavaScript(name);
