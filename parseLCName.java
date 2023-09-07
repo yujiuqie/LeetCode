@@ -1,6 +1,6 @@
 class parseLCName {
     public static void main(String[] args) {
-        String name = "933. Number of Recent Calls";
+        String name = "2095. Delete the Middle Node of a Linked List";
         printJava(name);
         // printSwift(name);
         // printJavaScript(name);

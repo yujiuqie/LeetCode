@@ -87,9 +87,9 @@
 
 #### 链表(Linked List)
 
-| Problem | Swift | Java | JavaScript |
+| Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/10_LinkedList/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/10_LinkedList/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/10_LinkedList/) |
 |:---|:---:|:---:|:---:|
-| [] | [Swift] | [Java] | [JavaScript] | 
+| [2095. Delete the Middle Node of a Linked List](https://leetcode.cn/problems/delete-the-middle-node-of-a-linked-list/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/10_LinkedList/LC_2095_DeleteTheMiddleNodeOfALinkedList.java) | [JavaScript] |
 
 #### 树（Tree General）
 
@@ -196,6 +196,7 @@
 | [1150. Check If a Number Is Majority Element in a Sorted Array](https://leetcode.cn/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/LC_1150_CheckIfANumberIsMajorityElementInASortedArray.java)| [JavaScript] | 
 | [1228. Missing Number In Arithmetic Progression](https://leetcode.cn/problems/missing-number-in-arithmetic-progression/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/20_BinarySearch/LC_1228_MissingNumberInArithmeticProgression.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/LC_1228_MissingNumberInArithmeticProgression.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/20_BinarySearch/LC_1228_MissingNumberInArithmeticProgression.js) | 
 | [1533. Find the Index of the Large Integer](https://leetcode.cn/problems/find-the-index-of-the-large-integer/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/LC_1533_FindTheIndexOfTheLargeInteger.java) | [JavaScript] |
+| [2594. Minimum Time to Repair Cars](https://leetcode.cn/problems/minimum-time-to-repair-cars/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/LC_2594_MinimumTimeToRepairCars.java) | [JavaScript] | 
 
 #### 堆(Heap)
 
