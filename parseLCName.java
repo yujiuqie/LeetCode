@@ -1,24 +1,17 @@
 class parseLCName {
     public static void main(String[] args) {
-        String name = "2095. Delete the Middle Node of a Linked List";
-        printJava(name);
-        // printSwift(name);
-        // printJavaScript(name);
+        String name = "1431. Kids With the Greatest Number of Candies";
+        // Boolean[] parseTag = new Boolean[]{false,true,false};
+        Boolean[] parseTag = new Boolean[]{true,true,false};
+        print(name,parseTag);
     }
 
-    private static void printJava(String enName) {
+    private static void print(String enName, Boolean[] parse) {
         String[] res = parse(enName);
-        System.out.println("| [" + res[0] + "](" + res[1] + ")| [Swift] | [Java](LC_" + res[2] + ".java) | [JavaScript] | ");
-    }
-
-    private static void printSwift(String enName) {
-        String[] res = parse(enName);
-        System.out.println("| [" + res[0] + "](" + res[1] + ")| [Swift](LC_" + res[2] + ".swift) | [Java] | [JavaScript] | ");
-    }
-
-    private static void printJavaScript(String enName) {
-        String[] res = parse(enName);
-        System.out.println("| [" + res[0] + "](" + res[1] + ")| [Swift] | [Java] | [JavaScript](LC_" + res[2] + ".js) | ");
+        String swift = parse[0] ? "[Swift](LC_" + res[2] + ".swift)" : "[Swift]";
+        String java = parse[1] ? "[Java](LC_" + res[2] + ".java)" : "[Java]";
+        String javascript = parse[2] ? "[JavaScript](LC_" + res[2] + ".js)" : "[JavaScript]";
+        System.out.println("| [" + res[0] + "](" + res[1] + ")| " + swift + " | " + java + " | " + javascript + " | ");
     }
 
     private static String[] parse(String enName) {
@@ -49,6 +42,6 @@ class parseLCName {
             fullName = fullName + tName;
         }
 
-        return new String[] { enName, fullUrl,fullName };
+        return new String[] { enName, fullUrl, fullName };
     }
 }
