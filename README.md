@@ -18,7 +18,6 @@
 * 题解语言为 Swift、Java、JavaScript
 * LeetCode：[https://leetcode.cn/u/yujiuqie](https://leetcode.cn/u/yujiuqie/)
 * 个人博客：[https://jhfs.fun](https://jhfs.fun/)
-* 欢迎大家指正，感谢小星星⭐️⭐️！
 
 #### 数组(Array)
 
