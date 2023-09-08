@@ -37,8 +37,8 @@
 | [43. Multiply Strings](https://leetcode.cn/problems/multiply-strings/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/2_String/LC_43_MultiplyStrings.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_43_MultiplyStrings.java) | [JavaScript] | 
 | [58. Length of Last Word](https://leetcode.cn/problems/length-of-last-word/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_58_LengthOfLastWord.java) |  [JavaScript] | 
 | [833. Find And Replace in String](https://leetcode.cn/problems/find-and-replace-in-string/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/2_String/LC_833_FindAndReplaceInString.swift) |  [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_833_FindAndReplaceInString.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/2_String/LC_833_FindAndReplaceInString.js) | 
-|[1071. Greatest Common Divisor of Strings](https://leetcode.cn/problems/greatest-common-divisor-of-strings/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_1071_GreatestCommonDivisorOfStrings.java) | [JavaScript] | 
-|[1768. Merge Strings Alternately](https://leetcode.cn/problems/merge-strings-alternately/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_1768_MergeStringsAlternately.java) | [JavaScript] | 
+| [1071. Greatest Common Divisor of Strings](https://leetcode.cn/problems/greatest-common-divisor-of-strings/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_1071_GreatestCommonDivisorOfStrings.java) | [JavaScript] | 
+| [1768. Merge Strings Alternately](https://leetcode.cn/problems/merge-strings-alternately/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_1768_MergeStringsAlternately.java) | [JavaScript] | 
 
 #### 双指针(Two Pointers)
 
@@ -46,6 +46,7 @@
 |:---|:---:|:---:|:---:|
 | [228. Summary Ranges](https://leetcode.cn/problems/summary-ranges/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/3_TwoPointers/LC_228_SummaryRanges.java) | [JavaScript] 
 | [849. Maximize Distance to Closest Person](https://leetcode.cn/problems/maximize-distance-to-closest-person/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/3_TwoPointers/LC_849_MaximizeDistanceToClosestPerson.java) | [JavaScript] | 
+| [1679. Max Number of K-Sum Pairs](https://leetcode.cn/problems/max-number-of-k-sum-pairs/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/3_TwoPointers/LC_1679_MaxNumberOfK-SumPairs.java) | [JavaScript] | 
 | [2337. Move Pieces to Obtain a String](https://leetcode.cn/problems/move-pieces-to-obtain-a-string/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/3_TwoPointers/LC_2337_MovePiecesToObtainAString.java) | [JavaScript] | 
 
 #### 滑动窗口(Sliding Window)
@@ -53,6 +54,7 @@
 | Problem  | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/4_SlidingWindow/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/4_SlidingWindow/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/4_SlidingWindow/) |
 |:---|:---:|:---:|:---:|
 | [643. Maximum Average Subarray I](https://leetcode.cn/problems/maximum-average-subarray-i/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/4_SlidingWindow/LC_643_MaximumAverageSubarrayI.java) | [JavaScript] | 
+| [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.cn/problems/longest-subarray-of-1s-after-deleting-one-element/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/4_SlidingWindow/LC_1493_LongestSubarrayOf1sAfterDeletingOneElement.java) | [JavaScript] | 
 
 #### 哈希表(Hash)
 
@@ -216,6 +218,7 @@
 |:---|:---:|:---:|:---:|
 | [1134. Armstrong Number](https://leetcode.cn/problems/armstrong-number/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/23_Math/LC_1134_ArmstrongNumber.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/23_Math/LC_1134_ArmstrongNumber.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/23_Math/LC_1134_ArmstrongNumber.js)| 
 | [1180. Count Substrings with Only One Distinct Letter](https://leetcode.cn/problems/count-substrings-with-only-one-distinct-letter/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/23_Math/LC_1180_CountSubstringsWithOnlyOneDistinctLetter.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/23_Math/LC_1180_CountSubstringsWithOnlyOneDistinctLetter.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/23_Math/LC_1180_CountSubstringsWithOnlyOneDistinctLetter.js) | 
+| [2651. Calculate Delayed Arrival Time](https://leetcode.cn/problems/calculate-delayed-arrival-time/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/23_Math/LC_2651_CalculateDelayedArrivalTime.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/23_Math/LC_2651_CalculateDelayedArrivalTime.java) | [JavaScript] | 
 
 #### 动态规划(DP)
 
@@ -225,7 +228,7 @@
 | [276. Paint Fence](https://leetcode.cn/problems/paint-fence/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_276_PaintFence.java) | [JavaScript] | 
 | [651. 4 Keys Keyboard](https://leetcode.cn/problems/4-keys-keyboard/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_651_4KeysKeyboard.java)| [JavaScript] | 
 | [1388. Pizza With 3n Slices](https://leetcode.cn/problems/pizza-with-3n-slices) |[Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_1388_PizzaWith3nSlices.java) | [JavaScript]| 
-| [2240. Number of Ways to Buy Pens and Pencils](https://leetcode.cn/problems/number-of-ways-to-buy-pens-and-pencils/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_2240_NumberOfWaysToBuyPensAndPencils.java) | [JavaScript] | 
+| [2240. Number of Ways to Buy Pens and Pencils](https://leetcode.cn/problems/number-of-ways-to-buy-pens-and-pencils/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_2240_NumberOfWaysToBuyPensAndPencils.java) | [JavaScript] |
 
 #### 设计(Design)
 

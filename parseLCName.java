@@ -1,8 +1,8 @@
 class parseLCName {
     public static void main(String[] args) {
-        String name = "1431. Kids With the Greatest Number of Candies";
-        // Boolean[] parseTag = new Boolean[]{false,true,false};
-        Boolean[] parseTag = new Boolean[]{true,true,false};
+        String name = "2651. Calculate Delayed Arrival Time";
+        // Boolean[] parseTag = new Boolean[]{false,true,false};    //Java
+        Boolean[] parseTag = new Boolean[]{true,true,false};     //Swift + Java
         print(name,parseTag);
     }
 
@@ -19,7 +19,9 @@ class parseLCName {
         int len = indexAndName.length;
         String[] res = new String[len - 2];
         for (int i = 2; i < len; i++) {
-            res[i - 2] = indexAndName[i].toLowerCase();
+            String tmp = indexAndName[i].toLowerCase();
+            tmp = tmp.replaceAll("[^0-9a-zA-Z]", "");
+            res[i - 2] = tmp;
         }
 
         String fullUrl = "https://leetcode.cn/problems/" + String.join("-", res) + '/';
@@ -27,6 +29,7 @@ class parseLCName {
         String fullName = indexAndName[0] + "_";
         for (int i = 1; i < len; i++) {
             String str = indexAndName[i];
+            str = str.replaceAll("[^0-9a-zA-Z]", "");
             if (str.length() == 0) {
                 continue;
             }
