@@ -1,8 +1,8 @@
 class parseLCName {
     public static void main(String[] args) {
-        String name = "2651. Calculate Delayed Arrival Time";
-        // Boolean[] parseTag = new Boolean[]{false,true,false};    //Java
-        Boolean[] parseTag = new Boolean[]{true,true,false};     //Swift + Java
+        String name = "207. Course Schedule";
+        Boolean[] parseTag = new Boolean[]{false,true,false};    //Java
+        // Boolean[] parseTag = new Boolean[]{true,true,false};     //Swift + Java
         print(name,parseTag);
     }
 

@@ -137,6 +137,7 @@
 
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/14_Graph_DFS/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_DFS/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/14_Graph_DFS/)|
 |:---|:---:|:---:|:---:|
+| [207. Course Schedule](https://leetcode.cn/problems/course-schedule/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_DFS/LC_207_CourseSchedule.java) | [JavaScript] | 
 | [694. Number of Distinct Islands](https://leetcode.cn/problems/number-of-distinct-islands/) | [Swift] |[Java🇩](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_DFS/LC_694_NumberOfDistinctIslands.java) | [JavaScript] | 
 | [1059. All Paths from Source Lead to Destination](https://leetcode.cn/problems/all-paths-from-source-lead-to-destination/) | [Swift] |[Java🇩](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_DFS/LC_1059_AllPathsFromSourceLeadToDestination.java) | [JavaScript] | 
 
