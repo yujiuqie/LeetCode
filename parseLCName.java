@@ -1,6 +1,6 @@
 class parseLCName {
     public static void main(String[] args) {
-        String name = "207. Course Schedule";
+        String name = "210. Course Schedule II";
         Boolean[] parseTag = new Boolean[]{false,true,false};    //Java
         // Boolean[] parseTag = new Boolean[]{true,true,false};     //Swift + Java
         print(name,parseTag);
@@ -11,7 +11,7 @@ class parseLCName {
         String swift = parse[0] ? "[Swift](LC_" + res[2] + ".swift)" : "[Swift]";
         String java = parse[1] ? "[Java](LC_" + res[2] + ".java)" : "[Java]";
         String javascript = parse[2] ? "[JavaScript](LC_" + res[2] + ".js)" : "[JavaScript]";
-        System.out.println("| [" + res[0] + "](" + res[1] + ")| " + swift + " | " + java + " | " + javascript + " | ");
+        System.out.println("| [" + res[0] + "](" + res[1] + ")| " + swift + " | " + java + " | " + javascript + " | | ");
     }
 
     private static String[] parse(String enName) {
