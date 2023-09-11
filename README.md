@@ -229,6 +229,12 @@
 | [1388. Pizza With 3n Slices](https://leetcode.cn/problems/pizza-with-3n-slices) |[Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_1388_PizzaWith3nSlices.java) | [JavaScript]| 
 | [2240. Number of Ways to Buy Pens and Pencils](https://leetcode.cn/problems/number-of-ways-to-buy-pens-and-pencils/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_2240_NumberOfWaysToBuyPensAndPencils.java) | [JavaScript] | |
 
+#### 前缀和(PrefixSum)
+
+| Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/25_PrefixSum/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/25_PrefixSum/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/25_PrefixSum/) |  Note |
+|:---|:---:|:---:|:---:|:---|
+| [1732. Find the Highest Altitude](https://leetcode.cn/problems/find-the-highest-altitude/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/25_PrefixSum/LC_1732_FindTheHighestAltitude.java) | [JavaScript] | |
+
 #### 设计(Design)
 
 | Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/26_Design/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/26_Design/)|  Note |
