@@ -62,6 +62,7 @@
 
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/5_Hash/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/5_Hash/) |  Note |
 |:---|:---:|:---:|:---:|:---|
+| [1207. Unique Number of Occurrences](https://leetcode.cn/problems/unique-number-of-occurrences/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/LC_1207_UniqueNumberOfOccurrences.java) | [JavaScript] | |
 | [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.cn/problems/form-smallest-number-from-two-digit-arrays/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/LC_2605_FormSmallestNumberFromTwoDigitArrays.java) | [JavaScript] | | 
 
 #### 矩阵(Matrix)
