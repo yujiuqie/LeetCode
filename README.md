@@ -63,6 +63,7 @@
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/5_Hash/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/5_Hash/) |  Note |
 |:---|:---:|:---:|:---:|:---|
 | [1207. Unique Number of Occurrences](https://leetcode.cn/problems/unique-number-of-occurrences/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/LC_1207_UniqueNumberOfOccurrences.java) | [JavaScript] | |
+| [1657. Determine if Two Strings Are Close](https://leetcode.cn/problems/determine-if-two-strings-are-close/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/LC_1657_DetermineIfTwoStringsAreClose.java) | [JavaScript] | | 
 | [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.cn/problems/form-smallest-number-from-two-digit-arrays/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/LC_2605_FormSmallestNumberFromTwoDigitArrays.java) | [JavaScript] | | 
 
 #### 矩阵(Matrix)
@@ -138,6 +139,7 @@
 | [210. Course Schedule II](https://leetcode.cn/problems/course-schedule-ii/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_210_CourseScheduleII.java) | [JavaScript] | 有向图拓扑排序 | 
 | [277. Find the Celebrity](https://leetcode.cn/problems/find-the-celebrity/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_277_FindTheCelebrity.java) | [JavaScript] | | 
 | [1267. Count Servers that Communicate](https://leetcode.cn/problems/count-servers-that-communicate/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_1267_CountServersThatCommunicate.java) | [JavaScript] | |
+| [1462. Course Schedule IV](https://leetcode.cn/problems/course-schedule-iv/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph/LC_1462_CourseScheduleIV.java) | [JavaScript] | 有向图拓扑排序 | 
 
 #### 图-深度优先搜索(Graph-DFS)
 

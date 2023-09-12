@@ -1,6 +1,6 @@
 class parseLCName {
     public static void main(String[] args) {
-        String name = "1207. Unique Number of Occurrences";
+        String name = "1462. Course Schedule IV";
         Boolean[] parseTag = new Boolean[]{false,true,false};    //Java
         // Boolean[] parseTag = new Boolean[]{true,true,false};     //Swift + Java
         print(name,parseTag);
