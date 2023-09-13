@@ -70,7 +70,7 @@
 
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/6_Matrix/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/6_Matrix/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/6_Matrix/) |  Note |
 |:---|:---:|:---:|:---:|:---|
-| [2596. Check Knight Tour Configuration](https://leetcode.cn/problems/check-knight-tour-configuration/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/6_Matrix/LC_2596_CheckKnightTourConfiguration.java) | [JavaScript] | | 
+| [2596. Check Knight Tour Configuration](https://leetcode.cn/problems/check-knight-tour-configuration/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/6_Matrix/LC_2596_CheckKnightTourConfiguration.java) | [JavaScript] | DFS | 
 
 #### 区间(Intervals)
 
