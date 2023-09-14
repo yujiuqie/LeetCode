@@ -249,6 +249,12 @@
 | [604. Design Compressed String Iterator](https://leetcode.cn/problems/design-compressed-string-iterator/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/26_Design/LC_604_DesignCompressedStringIterator.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_604_DesignCompressedStringIterator.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/26_Design/LC_604_DesignCompressedStringIterator.js) | ❎Swift 解法本地可通过， LeetCode 运行时报错 |
 | [1244. Design A Leaderboard](https://leetcode.cn/problems/design-a-leaderboard/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_1244_DesignALeaderboard) | [JavaScript] | | 
 
+#### 模拟(Simulation)
+
+| Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/27_Simulation/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/27_Simulation/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/27_Simulation/)|  Note |
+|:---|:---:|:---:|:---:|:---|
+| [1222. Queens That Can Attack the King](https://leetcode.cn/problems/queens-that-can-attack-the-king/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/27_Simulation/LC_1222_QueensThatCanAttackTheKing.java) | [JavaScript] | |
+
 ## 笔记备忘
 
 * ❎ - 表示`环境原因错误`而非`算法逻辑错误`。本地运行可以通过，但 LeetCode 运行会报错误。
