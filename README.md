@@ -253,7 +253,10 @@
 
 | Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/27_Simulation/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/27_Simulation/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/27_Simulation/)|  Note |
 |:---|:---:|:---:|:---:|:---|
+| [LCP 50. Gem Supply](https://leetcode.cn/problems/queens-that-can-attack-the-king/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/27_Simulation/LC_P_50_GemSupply.java) | [JavaScript] | |
 | [1222. Queens That Can Attack the King](https://leetcode.cn/problems/queens-that-can-attack-the-king/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/27_Simulation/LC_1222_QueensThatCanAttackTheKing.java) | [JavaScript] | |
+
+
 
 ## 笔记备忘
 
