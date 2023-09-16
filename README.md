@@ -84,7 +84,13 @@
 
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/8_Stack/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/8_Stack/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/8_Stack/) |  Note |
 |:---|:---:|:---:|:---:|:---|
-| [2390. Removing Stars From a String](https://leetcode.cn/problems/removing-stars-from-a-string/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/8_Stack/LC_2390_RemovingStarsFromAString.java) | [JavaScript] | | 
+| [2390. Removing Stars From a String](https://leetcode.cn/problems/removing-stars-from-a-string/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/8_Stack/LC_2390_RemovingStarsFromAString.java) | [JavaScript] | |
+
+#### 单调栈(Monotonic Stack)
+
+| Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/8_MonotonicStack/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/8_MonotonicStack/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/8_MonotonicStack/) |  Note |
+|:---|:---:|:---:|:---:|:---|
+| [901. Online Stock Span](https://leetcode.cn/problems/online-stock-span/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/8_MonotonicStack/LC_901_OnlineStockSpan.java) | [JavaScript] | | 
 
 #### 队列(Queue)
 
