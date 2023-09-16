@@ -175,6 +175,7 @@
 | [200. Number of Islands](https://leetcode.cn/problems/number-of-islands/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/15_UFDS/LC_200_NumberOfIslands.java) | [JavaScript] | | 
 | [305. Number of Islands II](https://leetcode.cn/problems/number-of-islands-ii/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/15_UFDS/LC_305_NumberOfIslandsII.java)| [JavaScript] | | 
 | [323. Number of Connected Components in an Undirected Graph](https://leetcode.cn/problems/number-of-connected-components-in-an-undirected-graph/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/15_UFDS/LC_323_NumberOfConnectedComponentsInAnUndirectedGraph.java)| [JavaScript] | | 
+| [1631. Path With Minimum Effort](https://leetcode.cn/problems/path-with-minimum-effort/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/15_UFDS/LC_1631_PathWithMinimumEffort.java) | [JavaScript] | | 
 
 #### 字典树(Trie)
 
@@ -235,6 +236,7 @@
 
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/24_DP/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/24_DP/) |  Note |
 |:---|:---:|:---:|:---:|:---|
+| [198. House Robber](https://leetcode.cn/problems/house-robber/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_198_HouseRobber.java) | [JavaScript] | |
 | [256. Paint House](https://leetcode.cn/problems/paint-house/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_256_PaintHouse.java) | [JavaScript] | | 
 | [276. Paint Fence](https://leetcode.cn/problems/paint-fence/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_276_PaintFence.java) | [JavaScript] | | 
 | [651. 4 Keys Keyboard](https://leetcode.cn/problems/4-keys-keyboard/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_651_4KeysKeyboard.java)| [JavaScript] | | 
