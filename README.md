@@ -168,6 +168,7 @@
 | [1136. Parallel Courses](https://leetcode.cn/problems/parallel-courses) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_BFS/LC_1136_ParallelCourses.javaa) | [JavaScript] | | 
 | [1197. Minimum Knight Moves](https://leetcode.cn/problems/minimum-knight-moves/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_BFS/LC_1197_MinimumKnightMoves.java) | [JavaScript] | |
 | [1236. Web Crawler](https://leetcode.cn/problems/web-crawler/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_BFS/LC_1236_WebCrawler.java)| [JavaScript] | |
+| [1926. Nearest Exit from Entrance in Maze](https://leetcode.cn/problems/nearest-exit-from-entrance-in-maze/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/14_Graph_BFS/LC_1926_NearestExitFromEntranceInMaze.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/14_Graph_BFS/LC_1926_NearestExitFromEntranceInMaze.java) | [JavaScript] | |
 
 #### 图-并查集(Graph-UFDS)
 
