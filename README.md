@@ -98,6 +98,7 @@
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/9_Queue/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/9_Queue/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/9_Queue/) |  Note |
 |:---|:---:|:---:|:---:|:---|
 | [630. Course Schedule III](https://leetcode.cn/problems/course-schedule-iii/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/9_Queue/LC_630_CourseScheduleIII.java) | [JavaScript] | | 
+| [649. Dota2 Senate](https://leetcode.cn/problems/dota2-senate/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/9_Queue/LC_649_Dota2Senate.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/9_Queue/LC_649_Dota2Senate.java) | [JavaScript] | | 
 | [933. Number of Recent Calls](https://leetcode.cn/problems/number-of-recent-calls/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/9_Queue/LC_933_NumberOfRecentCalls.java) | [JavaScript] | |
 
 #### 链表(Linked List)
