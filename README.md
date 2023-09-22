@@ -173,6 +173,8 @@
 
 #### 图-并查集(Graph-UFDS)
 
+帮助解决 N 个元素的集合应用问题
+
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/15_UFDS/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/15_UFDS/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/15_UFDS/)|  Note |
 |:---|:---:|:---:|:---:|:---|
 | [200. Number of Islands](https://leetcode.cn/problems/number-of-islands/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/15_UFDS/LC_200_NumberOfIslands.java) | [JavaScript] | | 
