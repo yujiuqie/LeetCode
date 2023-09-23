@@ -266,6 +266,7 @@
 | [281. Zigzag Iterator](https://leetcode.cn/problems/zigzag-iterator/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_281_ZigzagIterator.java) | [JavaScript] | | 
 | [604. Design Compressed String Iterator](https://leetcode.cn/problems/design-compressed-string-iterator/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/26_Design/LC_604_DesignCompressedStringIterator.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_604_DesignCompressedStringIterator.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/26_Design/LC_604_DesignCompressedStringIterator.js) | ❎Swift 解法本地可通过， LeetCode 运行时报错 |
 | [1244. Design A Leaderboard](https://leetcode.cn/problems/design-a-leaderboard/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_1244_DesignALeaderboard) | [JavaScript] | | 
+| [1993. Operations on Tree](https://leetcode.cn/problems/operations-on-tree/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/26_Design/LC_1993_OperationsOnTree.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_1993_OperationsOnTree.java) | [JavaScript] | | 
 
 #### 模拟(Simulation)
 
