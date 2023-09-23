@@ -106,6 +106,7 @@
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/10_LinkedList/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/10_LinkedList/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/10_LinkedList/) |  Note |
 |:---|:---:|:---:|:---:|:---|
 | [2095. Delete the Middle Node of a Linked List](https://leetcode.cn/problems/delete-the-middle-node-of-a-linked-list/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/10_LinkedList/LC_2095_DeleteTheMiddleNodeOfALinkedList.java) | [JavaScript] | |
+| [2130. Maximum Twin Sum of a Linked List](https://leetcode.cn/problems/maximum-twin-sum-of-a-linked-list/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/10_LinkedList/LC_2130_MaximumTwinSumOfALinkedList.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/10_LinkedList/LC_2130_MaximumTwinSumOfALinkedList.java) | [JavaScript] | | 
 
 #### 树（Tree General）
 
@@ -212,6 +213,7 @@
 
 | Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/20_BinarySearch/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/20_BinarySearch/)|  Note |
 |:---|:---:|:---:|:---:|:---|
+| [374. Guess Number Higher or Lower](https://leetcode.cn/problems/guess-number-higher-or-lower/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/20_BinarySearch/LC_374_GuessNumberHigherOrLower.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/LC_374_GuessNumberHigherOrLower.java) | [JavaScript] | |
 | [1150. Check If a Number Is Majority Element in a Sorted Array](https://leetcode.cn/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/LC_1150_CheckIfANumberIsMajorityElementInASortedArray.java)| [JavaScript] | | 
 | [1228. Missing Number In Arithmetic Progression](https://leetcode.cn/problems/missing-number-in-arithmetic-progression/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/20_BinarySearch/LC_1228_MissingNumberInArithmeticProgression.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/LC_1228_MissingNumberInArithmeticProgression.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/20_BinarySearch/LC_1228_MissingNumberInArithmeticProgression.js) |  |
 | [1533. Find the Index of the Large Integer](https://leetcode.cn/problems/find-the-index-of-the-large-integer/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/LC_1533_FindTheIndexOfTheLargeInteger.java) | [JavaScript] | |
