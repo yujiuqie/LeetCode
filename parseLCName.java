@@ -1,9 +1,9 @@
 class parseLCName {
     public static void main(String[] args) {
-        String name = "2336. Smallest Number in Infinite Set";
-        Boolean[] parseTag = new Boolean[]{false,true,false};    //Java
+        String name = "605. Can Place Flowers";
+        // Boolean[] parseTag = new Boolean[]{false,true,false};    //Java
         // Boolean[] parseTag = new Boolean[]{true,false,false};     //Swift
-        // Boolean[] parseTag = new Boolean[]{true,true,false};     //Swift + Java
+        Boolean[] parseTag = new Boolean[]{true,true,false};     //Swift + Java
         print(name,parseTag);
     }
 

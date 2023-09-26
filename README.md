@@ -26,6 +26,7 @@
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/1_Array/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/1_Array/) |  Note |
 |:---|:---:|:---:|:---:|:---|
 | [1. Two Sum](https://leetcode.cn/problems/two-sum/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/1_Array/LC_1_TwoSum.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/LC_1_TwoSum.java)  | [JavaScript] | | 
+| [605. Can Place Flowers](https://leetcode.cn/problems/can-place-flowers/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/1_Array/LC_605_CanPlaceFlowers.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/LC_605_CanPlaceFlowers.java) | [JavaScript] | 贪心 | 
 | [1060. Missing Element in Sorted Array](https://leetcode.cn/problems/missing-element-in-sorted-array/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/LC_1060_MissingElementInSortedArray.java) | [JavaScript] | | 
 | [1431. Kids With the Greatest Number of Candies](https://leetcode.cn/problems/kids-with-the-greatest-number-of-candies/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/1_Array/LC_1431_KidsWithTheGreatestNumberOfCandies.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/LC_1431_KidsWithTheGreatestNumberOfCandies.java) | [JavaScript] | |
 | [1921. Eliminate Maximum Number of Monsters](https://leetcode.cn/problems/eliminate-maximum-number-of-monsters/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/1_Array/LC_1921_EliminateMaximumNumberOfMonsters.java) | [JavaScript] | | 
@@ -245,6 +246,7 @@
 |:---|:---:|:---:|:---:|:---|
 | [1134. Armstrong Number](https://leetcode.cn/problems/armstrong-number/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/23_Math/LC_1134_ArmstrongNumber.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/23_Math/LC_1134_ArmstrongNumber.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/23_Math/LC_1134_ArmstrongNumber.js)| 
 | [1180. Count Substrings with Only One Distinct Letter](https://leetcode.cn/problems/count-substrings-with-only-one-distinct-letter/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/23_Math/LC_1180_CountSubstringsWithOnlyOneDistinctLetter.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/23_Math/LC_1180_CountSubstringsWithOnlyOneDistinctLetter.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/23_Math/LC_1180_CountSubstringsWithOnlyOneDistinctLetter.js) |  |
+| [2582. Pass the Pillow](https://leetcode.cn/problems/pass-the-pillow/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/23_Math/LC_2582_PassThePillow.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/23_Math/LC_2582_PassThePillow.java) | [JavaScript] | |
 | [2591. Distribute Money to Maximum Children](https://leetcode.cn/problems/distribute-money-to-maximum-children/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/23_Math/LC_2591_DistributeMoneyToMaximumChildren.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/23_Math/LC_2591_DistributeMoneyToMaximumChildren.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/23_Math/LC_2591_DistributeMoneyToMaximumChildren.js) | | 
 | [2651. Calculate Delayed Arrival Time](https://leetcode.cn/problems/calculate-delayed-arrival-time/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/23_Math/LC_2651_CalculateDelayedArrivalTime.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/23_Math/LC_2651_CalculateDelayedArrivalTime.java) | [JavaScript] | | 
 
@@ -285,8 +287,6 @@
 | [LCP 50. Gem Supply](https://leetcode.cn/problems/WHnhjV/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/27_Simulation/LC_P_50_GemSupply.java) | [JavaScript] | |
 | [1222. Queens That Can Attack the King](https://leetcode.cn/problems/queens-that-can-attack-the-king/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/27_Simulation/LC_1222_QueensThatCanAttackTheKing.java) | [JavaScript] | |
 
-
-
 ## 笔记备忘
 
 * ❎ - 表示`环境原因错误`而非`算法逻辑错误`。本地运行可以通过，但 LeetCode 运行会报错误。
@@ -300,3 +300,7 @@
 * 🇷递归（Recursion）：递归是一种算法，在函数中调用自身的方法称为递归，是一种基于编程语言的实现方式。
 * 🇩深度优先搜索（DFS）：深度优先搜索是一种算法思想，也是一种访问所有节点的方式，通常已经访问过的节点不再访问，所有点仅访问一次。深度优先搜索可以使用递归方式实现，也可以不使用递归方式实现。与深度优搜索（DFS）对应的是广度优先搜索（BFS）。
 * 🅱️回溯（Backtracking）：回溯是一种算法思想，常用递归方式来实现，同时也是深度优先搜索的一种特例，与深度优先搜索的区别在于已经访问过的点可能再次访问，也可能存在没有被访问过的点（在满足一定条件后可以直接返回上一层）。
+
+#### Swift 备注
+
+* PriorityQueue 需要自定义实现
