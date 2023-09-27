@@ -291,7 +291,7 @@
 
 | Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/28_Sorting/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/28_Sorting/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/28_Sorting/)|  Note |
 |:---|:---:|:---:|:---:|:---|
-| [1333. Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.cn/problems/filter-restaurants-by-veganfriendly-price-and-distance/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/28_Sorting/LC_1333_FilterRestaurantsByVeganFriendlyPriceAndDistance.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/28_Sorting/LC_1333_FilterRestaurantsByVeganFriendlyPriceAndDistance.java) | [JavaScript] | | 
+| [1333. Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.cn/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/28_Sorting/LC_1333_FilterRestaurantsByVeganFriendlyPriceAndDistance.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/28_Sorting/LC_1333_FilterRestaurantsByVeganFriendlyPriceAndDistance.java) | [JavaScript] | | 
 
 ## 笔记备忘
 
