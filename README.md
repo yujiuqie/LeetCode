@@ -287,6 +287,12 @@
 | [LCP 50. Gem Supply](https://leetcode.cn/problems/WHnhjV/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/27_Simulation/LC_P_50_GemSupply.java) | [JavaScript] | |
 | [1222. Queens That Can Attack the King](https://leetcode.cn/problems/queens-that-can-attack-the-king/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/27_Simulation/LC_1222_QueensThatCanAttackTheKing.java) | [JavaScript] | |
 
+#### 排序(Sorting)
+
+| Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/28_Sorting/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/28_Sorting/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/28_Sorting/)|  Note |
+|:---|:---:|:---:|:---:|:---|
+| [1333. Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.cn/problems/filter-restaurants-by-veganfriendly-price-and-distance/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/28_Sorting/LC_1333_FilterRestaurantsByVeganFriendlyPriceAndDistance.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/28_Sorting/LC_1333_FilterRestaurantsByVeganFriendlyPriceAndDistance.java) | [JavaScript] | | 
+
 ## 笔记备忘
 
 * ❎ - 表示`环境原因错误`而非`算法逻辑错误`。本地运行可以通过，但 LeetCode 运行会报错误。
