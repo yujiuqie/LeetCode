@@ -241,6 +241,7 @@
 | Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/22_BitManipulation/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/22_BitManipulation/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/22_BitManipulation/)|  Note |
 |:---|:---:|:---:|:---:|:---|
 | [231. Power of Two](https://leetcode.cn/problems/power-of-two/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/22_BitManipulation/LC_231_PowerOfTwo.java)| [JavaScript] | | 
+| [1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.cn/problems/minimum-flips-to-make-a-or-b-equal-to-c/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/22_BitManipulation/LC_1318_MinimumFlipsToMakeAORBEqualToC.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/22_BitManipulation/LC_1318_MinimumFlipsToMakeAORBEqualToC.java) | [JavaScript] | | 
 
 #### 数学(Math)
 
