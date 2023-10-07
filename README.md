@@ -102,13 +102,6 @@
 | [649. Dota2 Senate](https://leetcode.cn/problems/dota2-senate/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/9_Queue/LC_649_Dota2Senate.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/9_Queue/LC_649_Dota2Senate.java) | [JavaScript] | | 
 | [933. Number of Recent Calls](https://leetcode.cn/problems/number-of-recent-calls/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/9_Queue/LC_933_NumberOfRecentCalls.java) | [JavaScript] | |
 
-#### 优先队列(Priority Queue)
-
-| Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/9_PriorityQueue/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/9_PriorityQueue/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/9_PriorityQueue/) |  Note |
-|:---|:---:|:---:|:---:|:---|
-| [630. Course Schedule III](https://leetcode.cn/problems/course-schedule-iii/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/9_PriorityQueue/LC_630_CourseScheduleIII.java) | [JavaScript] | | 
-| [2336. Smallest Number in Infinite Set](https://leetcode.cn/problems/smallest-number-in-infinite-set/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/9_PriorityQueue/LC_2336_SmallestNumberInInfiniteSet.java) | [JavaScript] | |
-
 #### 链表(Linked List)
 
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/10_LinkedList/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/10_LinkedList/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/10_LinkedList/) |  Note |
@@ -232,11 +225,16 @@
 | [2560. House Robber IV](https://leetcode.cn/problems/house-robber-iv/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/LC_2560_HouseRobberIV.java) | [JavaScript] | | 
 | [2594. Minimum Time to Repair Cars](https://leetcode.cn/problems/minimum-time-to-repair-cars/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/LC_2594_MinimumTimeToRepairCars.java) | [JavaScript] | | 
 
-#### 堆(Heap)
+#### 堆(Heap)/优先级队列(Priority Queue)
 
-| Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/21_Heap/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/21_Heap/)|  Note |
+* 优先级队列(Priority Queue)是堆(Heap)的一种应用，但优先级队列同样可以用其他数据结构实现，比如说直接对数组插入实现，但是效率不高。
+* 区别：在 remove 操作中，Priority Queue 的时间复杂度是 O(n)，而 Heap 是 O(logn)。因为Priority Queue 需要找到这个数据，需要 O(n) 的时间，而 Heap 借助了 HashMap，所以只需要 O(1) 的时间就可以找到。
+
+| Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/21_Heap_PriorityQueue/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap_PriorityQueue/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/21_Heap_PriorityQueue/)|  Note |
 |:---|:---:|:---:|:---:|:---|
-| [1167. Minimum Cost to Connect Sticks](https://leetcode.cn/problems/minimum-cost-to-connect-sticks/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap/LC_1167_MinimumCostToConnectSticks.java)| [JavaScript] | | 
+| [630. Course Schedule III](https://leetcode.cn/problems/course-schedule-iii/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap_PriorityQueue/LC_630_CourseScheduleIII.java) | [JavaScript] | | 
+| [1167. Minimum Cost to Connect Sticks](https://leetcode.cn/problems/minimum-cost-to-connect-sticks/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap_PriorityQueue/LC_1167_MinimumCostToConnectSticks.java)| [JavaScript] | | 
+| [2336. Smallest Number in Infinite Set](https://leetcode.cn/problems/smallest-number-in-infinite-set/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap_PriorityQueue/LC_2336_SmallestNumberInInfiniteSet.java) | [JavaScript] | |
 
 #### 位运算(Bit Manipulation)
 
