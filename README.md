@@ -64,6 +64,7 @@
 
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/5_Hash/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/5_Hash/) |  Note |
 |:---|:---:|:---:|:---:|:---|
+| [383. Ransom Note](https://leetcode.cn/problems/ransom-note/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/5_Hash/LC_383_RansomNote.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/LC_383_RansomNote.java) | [JavaScript] | | 
 | [1207. Unique Number of Occurrences](https://leetcode.cn/problems/unique-number-of-occurrences/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/LC_1207_UniqueNumberOfOccurrences.java) | [JavaScript] | |
 | [1657. Determine if Two Strings Are Close](https://leetcode.cn/problems/determine-if-two-strings-are-close/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/LC_1657_DetermineIfTwoStringsAreClose.java) | [JavaScript] | | 
 | [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.cn/problems/form-smallest-number-from-two-digit-arrays/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/LC_2605_FormSmallestNumberFromTwoDigitArrays.java) | [JavaScript] | | 
