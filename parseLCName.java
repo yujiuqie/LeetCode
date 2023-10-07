@@ -1,6 +1,6 @@
 class parseLCName {
     public static void main(String[] args) {
-        String name = "901. Online Stock Span";
+        String name = "190. Reverse Bits";
         // Boolean[] parseTag = new Boolean[]{false,true,false};    //Java
         // Boolean[] parseTag = new Boolean[]{true,false,false};     //Swift
         Boolean[] parseTag = new Boolean[]{true,true,false};     //Swift + Java
