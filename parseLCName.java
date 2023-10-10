@@ -1,6 +1,6 @@
 class parseLCName {
     public static void main(String[] args) {
-        String name = "714. Best Time to Buy and Sell Stock with Transaction Fee";
+        String name = "712. Minimum ASCII Delete Sum for Two Strings";
         // Boolean[] parseTag = new Boolean[]{false,true,false};    //Java
         // Boolean[] parseTag = new Boolean[]{true,false,false};     //Swift
         Boolean[] parseTag = new Boolean[]{true,true,false};     //Swift + Java
