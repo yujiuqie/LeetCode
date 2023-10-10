@@ -64,6 +64,7 @@
 
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/5_Hash/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/5_Hash/) |  Note |
 |:---|:---:|:---:|:---:|:---|
+| [383. Ransom Note](https://leetcode.cn/problems/ransom-note/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/5_Hash/LC_383_RansomNote.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/LC_383_RansomNote.java) | [JavaScript] | | 
 | [1207. Unique Number of Occurrences](https://leetcode.cn/problems/unique-number-of-occurrences/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/LC_1207_UniqueNumberOfOccurrences.java) | [JavaScript] | |
 | [1657. Determine if Two Strings Are Close](https://leetcode.cn/problems/determine-if-two-strings-are-close/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/LC_1657_DetermineIfTwoStringsAreClose.java) | [JavaScript] | | 
 | [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.cn/problems/form-smallest-number-from-two-digit-arrays/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/LC_2605_FormSmallestNumberFromTwoDigitArrays.java) | [JavaScript] | | 
@@ -93,7 +94,7 @@
 
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/8_MonotonicStack/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/8_MonotonicStack/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/8_MonotonicStack/) |  Note |
 |:---|:---:|:---:|:---:|:---|
-| [901. Online Stock Span](https://leetcode.cn/problems/online-stock-span/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/8_MonotonicStack/LC_901_OnlineStockSpan.java) | [JavaScript] | | 
+| [901. Online Stock Span](https://leetcode.cn/problems/online-stock-span/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/8_MonotonicStack/LC_901_OnlineStockSpan.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/8_MonotonicStack/LC_901_OnlineStockSpan.java) | [JavaScript] | | 
 
 #### 队列(Queue)
 
@@ -101,13 +102,6 @@
 |:---|:---:|:---:|:---:|:---|
 | [649. Dota2 Senate](https://leetcode.cn/problems/dota2-senate/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/9_Queue/LC_649_Dota2Senate.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/9_Queue/LC_649_Dota2Senate.java) | [JavaScript] | | 
 | [933. Number of Recent Calls](https://leetcode.cn/problems/number-of-recent-calls/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/9_Queue/LC_933_NumberOfRecentCalls.java) | [JavaScript] | |
-
-#### 优先队列(Priority Queue)
-
-| Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/9_PriorityQueue/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/9_PriorityQueue/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/9_PriorityQueue/) |  Note |
-|:---|:---:|:---:|:---:|:---|
-| [630. Course Schedule III](https://leetcode.cn/problems/course-schedule-iii/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/9_PriorityQueue/LC_630_CourseScheduleIII.java) | [JavaScript] | | 
-| [2336. Smallest Number in Infinite Set](https://leetcode.cn/problems/smallest-number-in-infinite-set/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/9_PriorityQueue/LC_2336_SmallestNumberInInfiniteSet.java) | [JavaScript] | |
 
 #### 链表(Linked List)
 
@@ -224,6 +218,7 @@
 
 | Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/20_BinarySearch/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/20_BinarySearch/)|  Note |
 |:---|:---:|:---:|:---:|:---|
+| [74. Search a 2D Matrix](https://leetcode.cn/problems/search-a-2d-matrix/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/20_BinarySearch/LC_74_SearchA2DMatrix.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/LC_74_SearchA2DMatrix.java) | [JavaScript] | | 
 | [374. Guess Number Higher or Lower](https://leetcode.cn/problems/guess-number-higher-or-lower/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/20_BinarySearch/LC_374_GuessNumberHigherOrLower.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/LC_374_GuessNumberHigherOrLower.java) | [JavaScript] | |
 | [1150. Check If a Number Is Majority Element in a Sorted Array](https://leetcode.cn/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/LC_1150_CheckIfANumberIsMajorityElementInASortedArray.java)| [JavaScript] | | 
 | [1228. Missing Number In Arithmetic Progression](https://leetcode.cn/problems/missing-number-in-arithmetic-progression/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/20_BinarySearch/LC_1228_MissingNumberInArithmeticProgression.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/LC_1228_MissingNumberInArithmeticProgression.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/20_BinarySearch/LC_1228_MissingNumberInArithmeticProgression.js) |  |
@@ -231,16 +226,22 @@
 | [2560. House Robber IV](https://leetcode.cn/problems/house-robber-iv/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/LC_2560_HouseRobberIV.java) | [JavaScript] | | 
 | [2594. Minimum Time to Repair Cars](https://leetcode.cn/problems/minimum-time-to-repair-cars/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/20_BinarySearch/LC_2594_MinimumTimeToRepairCars.java) | [JavaScript] | | 
 
-#### 堆(Heap)
+#### 堆(Heap)/优先级队列(Priority Queue)
 
-| Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/21_Heap/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/21_Heap/)|  Note |
+* 优先级队列(Priority Queue)是堆(Heap)的一种应用，但优先级队列同样可以用其他数据结构实现，比如说直接对数组插入实现，但是效率不高。
+* 区别：在 remove 操作中，Priority Queue 的时间复杂度是 O(n)，而 Heap 是 O(logn)。因为Priority Queue 需要找到这个数据，需要 O(n) 的时间，而 Heap 借助了 HashMap，所以只需要 O(1) 的时间就可以找到。
+
+| Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/21_Heap_PriorityQueue/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap_PriorityQueue/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/21_Heap_PriorityQueue/)|  Note |
 |:---|:---:|:---:|:---:|:---|
-| [1167. Minimum Cost to Connect Sticks](https://leetcode.cn/problems/minimum-cost-to-connect-sticks/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap/LC_1167_MinimumCostToConnectSticks.java)| [JavaScript] | | 
+| [630. Course Schedule III](https://leetcode.cn/problems/course-schedule-iii/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap_PriorityQueue/LC_630_CourseScheduleIII.java) | [JavaScript] | | 
+| [1167. Minimum Cost to Connect Sticks](https://leetcode.cn/problems/minimum-cost-to-connect-sticks/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap_PriorityQueue/LC_1167_MinimumCostToConnectSticks.java)| [JavaScript] | | 
+| [2336. Smallest Number in Infinite Set](https://leetcode.cn/problems/smallest-number-in-infinite-set/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap_PriorityQueue/LC_2336_SmallestNumberInInfiniteSet.java) | [JavaScript] | |
 
 #### 位运算(Bit Manipulation)
 
 | Problem |[Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/22_BitManipulation/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/22_BitManipulation/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/22_BitManipulation/)|  Note |
 |:---|:---:|:---:|:---:|:---|
+| [190. Reverse Bits](https://leetcode.cn/problems/reverse-bits/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/22_BitManipulation/LC_190_ReverseBits.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/22_BitManipulation/LC_190_ReverseBits.java) | [JavaScript] | | 
 | [231. Power of Two](https://leetcode.cn/problems/power-of-two/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/22_BitManipulation/LC_231_PowerOfTwo.java)| [JavaScript] | | 
 | [1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.cn/problems/minimum-flips-to-make-a-or-b-equal-to-c/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/22_BitManipulation/LC_1318_MinimumFlipsToMakeAORBEqualToC.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/22_BitManipulation/LC_1318_MinimumFlipsToMakeAORBEqualToC.java) | [JavaScript] | | 
 
@@ -250,6 +251,7 @@
 |:---|:---:|:---:|:---:|:---|
 | [1134. Armstrong Number](https://leetcode.cn/problems/armstrong-number/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/23_Math/LC_1134_ArmstrongNumber.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/23_Math/LC_1134_ArmstrongNumber.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/23_Math/LC_1134_ArmstrongNumber.js)| 
 | [1180. Count Substrings with Only One Distinct Letter](https://leetcode.cn/problems/count-substrings-with-only-one-distinct-letter/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/23_Math/LC_1180_CountSubstringsWithOnlyOneDistinctLetter.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/23_Math/LC_1180_CountSubstringsWithOnlyOneDistinctLetter.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/23_Math/LC_1180_CountSubstringsWithOnlyOneDistinctLetter.js) |  |
+| [2578. Split With Minimum Sum](https://leetcode.cn/problems/split-with-minimum-sum/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/23_Math/LC_2578_SplitWithMinimumSum.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/23_Math/LC_2578_SplitWithMinimumSum.java) | [JavaScript] | 贪心 |
 | [2582. Pass the Pillow](https://leetcode.cn/problems/pass-the-pillow/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/23_Math/LC_2582_PassThePillow.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/23_Math/LC_2582_PassThePillow.java) | [JavaScript] | |
 | [2591. Distribute Money to Maximum Children](https://leetcode.cn/problems/distribute-money-to-maximum-children/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/23_Math/LC_2591_DistributeMoneyToMaximumChildren.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/23_Math/LC_2591_DistributeMoneyToMaximumChildren.java) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/23_Math/LC_2591_DistributeMoneyToMaximumChildren.js) | | 
 | [2651. Calculate Delayed Arrival Time](https://leetcode.cn/problems/calculate-delayed-arrival-time/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/23_Math/LC_2651_CalculateDelayedArrivalTime.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/23_Math/LC_2651_CalculateDelayedArrivalTime.java) | [JavaScript] | | 
@@ -270,6 +272,7 @@
 | [651. 4 Keys Keyboard](https://leetcode.cn/problems/4-keys-keyboard/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_651_4KeysKeyboard.java)| [JavaScript] | | 
 | [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.cn/problems/minimum-ascii-delete-sum-for-two-strings/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/24_DP/LC_712_MinimumASCIIDeleteSumForTwoStrings.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_712_MinimumASCIIDeleteSumForTwoStrings.java) | [JavaScript] | | 
 | [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/24_DP/LC_714_BestTimeToBuyAndSellStockWithTransactionFee.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_714_BestTimeToBuyAndSellStockWithTransactionFee.java) | [JavaScript] | | 
+| [740. Delete and Earn](https://leetcode.cn/problems/delete-and-earn/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/24_DP/LC_740_DeleteAndEarn.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_740_DeleteAndEarn.java) | [JavaScript] | | 
 | [790. Domino and Tromino Tiling](https://leetcode.cn/problems/domino-and-tromino-tiling/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/24_DP/LC_790_DominoAndTrominoTiling.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_790_DominoAndTrominoTiling.java) | [JavaScript] | | 
 | [1388. Pizza With 3n Slices](https://leetcode.cn/problems/pizza-with-3n-slices) |[Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_1388_PizzaWith3nSlices.java) | [JavaScript]| 
 | [2240. Number of Ways to Buy Pens and Pencils](https://leetcode.cn/problems/number-of-ways-to-buy-pens-and-pencils/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/24_DP/LC_2240_NumberOfWaysToBuyPensAndPencils.java) | [JavaScript] | |
