@@ -236,6 +236,7 @@
 | [630. Course Schedule III](https://leetcode.cn/problems/course-schedule-iii/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap_PriorityQueue/LC_630_CourseScheduleIII.java) | [JavaScript] | | 
 | [1167. Minimum Cost to Connect Sticks](https://leetcode.cn/problems/minimum-cost-to-connect-sticks/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap_PriorityQueue/LC_1167_MinimumCostToConnectSticks.java)| [JavaScript] | | 
 | [2336. Smallest Number in Infinite Set](https://leetcode.cn/problems/smallest-number-in-infinite-set/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap_PriorityQueue/LC_2336_SmallestNumberInInfiniteSet.java) | [JavaScript] | |
+| [2512. Reward Top K Students](https://leetcode.cn/problems/reward-top-k-students/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap_PriorityQueue/LC_2512_RewardTopKStudents.java) | [JavaScript] | | 
 
 #### 位运算(Bit Manipulation)
 
