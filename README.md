@@ -316,6 +316,7 @@
 |:---|:---:|:---:|:---:|:---|
 | [LCP 50. Gem Supply](https://leetcode.cn/problems/WHnhjV/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/27_Simulation/LC_P_50_GemSupply.java) | [JavaScript] | |
 | [1222. Queens That Can Attack the King](https://leetcode.cn/problems/queens-that-can-attack-the-king/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/27_Simulation/LC_1222_QueensThatCanAttackTheKing.java) | [JavaScript] | |
+| [2525. Categorize Box According to Criteria](https://leetcode.cn/problems/categorize-box-according-to-criteria/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/27_Simulation/LC_2525_CategorizeBoxAccordingToCriteria.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/27_Simulation/LC_2525_CategorizeBoxAccordingToCriteria.java) | [JavaScript] | | 
 
 #### 排序(Sorting)
 
