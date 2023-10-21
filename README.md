@@ -195,6 +195,7 @@
 | [305. Number of Islands II](https://leetcode.cn/problems/number-of-islands-ii/) | [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/15_UFDS/LC_305_NumberOfIslandsII.java)| [JavaScript] | | 
 | [323. Number of Connected Components in an Undirected Graph](https://leetcode.cn/problems/number-of-connected-components-in-an-undirected-graph/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/15_UFDS/LC_323_NumberOfConnectedComponentsInAnUndirectedGraph.java)| [JavaScript] | | 
 | [1631. Path With Minimum Effort](https://leetcode.cn/problems/path-with-minimum-effort/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/15_UFDS/LC_1631_PathWithMinimumEffort.java) | [JavaScript] | | 
+| [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.cn/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/15_UFDS/LC_2316_CountUnreachablePairsOfNodesInAnUndirectedGraph.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/15_UFDS/LC_2316_CountUnreachablePairsOfNodesInAnUndirectedGraph.java) | [JavaScript] |❎|
 
 #### 字典树(Trie)
 
@@ -306,7 +307,7 @@
 | [146. LRU Cache](https://leetcode.cn/problems/lru-cache/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/26_Design/LC_146_LRUCache.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_146_LRUCache.java) | [JavaScript] | |
 | [271. Encode and Decode Strings](https://leetcode.cn/problems/encode-and-decode-strings/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_271_EncodeAndDecodeStrings.java) | [JavaScript] | | 
 | [281. Zigzag Iterator](https://leetcode.cn/problems/zigzag-iterator/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_281_ZigzagIterator.java) | [JavaScript] | | 
-| [604. Design Compressed String Iterator](https://leetcode.cn/problems/design-compressed-string-iterator/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/26_Design/LC_604_DesignCompressedStringIterator.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_604_DesignCompressedStringIterator.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/26_Design/LC_604_DesignCompressedStringIterator.js) | ❎Swift 解法本地可通过， LeetCode 运行时报错 |
+| [604. Design Compressed String Iterator](https://leetcode.cn/problems/design-compressed-string-iterator/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/26_Design/LC_604_DesignCompressedStringIterator.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_604_DesignCompressedStringIterator.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/26_Design/LC_604_DesignCompressedStringIterator.js) | ❎|
 | [1244. Design A Leaderboard](https://leetcode.cn/problems/design-a-leaderboard/) | [Swift] |[Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_1244_DesignALeaderboard) | [JavaScript] | | 
 | [1993. Operations on Tree](https://leetcode.cn/problems/operations-on-tree/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/26_Design/LC_1993_OperationsOnTree.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/26_Design/LC_1993_OperationsOnTree.java) | [JavaScript] | | 
 
@@ -326,7 +327,7 @@
 
 ## 笔记备忘
 
-* ❎ - 表示`环境原因错误`而非`算法逻辑错误`。本地运行可以通过，但 LeetCode 运行会报错误。
+* ❎ - 运行可以通过，但提交会报错误。
 * 🇧 - 表示`广度优先搜索`解法。
 * 🇩 - 表示`深度优先搜索`解法。
 * 🇷 - 表示`递归`解法。
