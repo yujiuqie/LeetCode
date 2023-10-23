@@ -48,6 +48,7 @@
 | [833. Find And Replace in String](https://leetcode.cn/problems/find-and-replace-in-string/) | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/2_String/LC_833_FindAndReplaceInString.swift) |  [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_833_FindAndReplaceInString.java) |  [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/2_String/LC_833_FindAndReplaceInString.js) |  |
 | [1071. Greatest Common Divisor of Strings](https://leetcode.cn/problems/greatest-common-divisor-of-strings/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_1071_GreatestCommonDivisorOfStrings.java) | [JavaScript] | | 
 | [1768. Merge Strings Alternately](https://leetcode.cn/problems/merge-strings-alternately/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_1768_MergeStringsAlternately.java) | [JavaScript] | | 
+| [2678. Number of Senior Citizens](https://leetcode.cn/problems/number-of-senior-citizens/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/2_String/LC_2678_NumberOfSeniorCitizens.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/2_String/LC_2678_NumberOfSeniorCitizens.java) | [JavaScript] | | 
 
 #### 双指针(Two Pointers)
 
