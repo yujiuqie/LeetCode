@@ -250,6 +250,7 @@
 | [2336. Smallest Number in Infinite Set](https://leetcode.cn/problems/smallest-number-in-infinite-set/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap_PriorityQueue/LC_2336_SmallestNumberInInfiniteSet.java) | [JavaScript] | |
 | [2512. Reward Top K Students](https://leetcode.cn/problems/reward-top-k-students/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap_PriorityQueue/LC_2512_RewardTopKStudents.java) | [JavaScript] | | 
 | [2530. Maximal Score After Applying K Operations](https://leetcode.cn/problems/maximal-score-after-applying-k-operations/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap_PriorityQueue/LC_2530_MaximalScoreAfterApplyingKOperations.java) | [JavaScript] | | 
+| [2558. Take Gifts From the Richest Pile](https://leetcode.cn/problems/take-gifts-from-the-richest-pile/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/21_Heap_PriorityQueue/LC_2558_TakeGiftsFromTheRichestPile.java) | [JavaScript] | |
 
 #### 位运算(Bit Manipulation)
 
