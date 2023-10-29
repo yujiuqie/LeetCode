@@ -1,4 +1,4 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true,
-    "java.jdt.ls.java.home": "/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home/",
+    // "java.debug.settings.onBuildFailureProceed": true,
+    // "java.jdt.ls.java.home": "/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home/",
 }
