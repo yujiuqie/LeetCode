@@ -1,6 +1,6 @@
 class parseLCName {
     public static void main(String[] args) {
-        String name = "896. Monotonic Array";
+        String name = "117. Populating Next Right Pointers in Each Node II";
         // Boolean[] parseTag = new Boolean[]{false,true,false};    //Java
         // Boolean[] parseTag = new Boolean[]{true,false,false};     //Swift
         Boolean[] parseTag = new Boolean[]{true,true,false};     //Swift + Java
