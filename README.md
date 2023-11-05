@@ -74,6 +74,7 @@
 
 | Problem | [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/5_Hash/) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/) | [JavaScript](https://github.com/yujiuqie/Leetcode/blob/master/JavaScript/5_Hash/) |  Note |
 |:---|:---:|:---:|:---:|:---|
+| [187. Repeated DNA Sequences](https://leetcode.cn/problems/repeated-dna-sequences/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/5_Hash/LC_187_RepeatedDNASequences.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/LC_187_RepeatedDNASequences.java) | [JavaScript] | ❎ | 
 | [383. Ransom Note](https://leetcode.cn/problems/ransom-note/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/5_Hash/LC_383_RansomNote.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/LC_383_RansomNote.java) | [JavaScript] | | 
 | [1207. Unique Number of Occurrences](https://leetcode.cn/problems/unique-number-of-occurrences/)| [Swift] | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/LC_1207_UniqueNumberOfOccurrences.java) | [JavaScript] | |
 | [1488. Avoid Flood in The City](https://leetcode.cn/problems/avoid-flood-in-the-city/)| [Swift](https://github.com/yujiuqie/Leetcode/blob/master/Swift/Leetcode.playground/Sources/5_Hash/LC_1488_AvoidFloodInTheCity.swift) | [Java](https://github.com/yujiuqie/Leetcode/blob/master/Java/5_Hash/LC_1488_AvoidFloodInTheCity.java) | [JavaScript] | 贪心 | 
@@ -335,7 +336,7 @@
 
 ## 笔记备忘
 
-* ❎ - 运行可以通过，但提交会报错误。
+* ❎ - 程序逻辑正确，但力扣提交错误。
 * 🇧 - 表示`广度优先搜索`解法。
 * 🇩 - 表示`深度优先搜索`解法。
 * 🇷 - 表示`递归`解法。
