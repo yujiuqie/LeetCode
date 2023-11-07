@@ -1,6 +1,6 @@
 class parseLCName {
     public static void main(String[] args) {
-        String name = "187. Repeated DNA Sequences";
+        String name = "2586. Count the Number of Vowel Strings in Range";
         // Boolean[] parseTag = new Boolean[]{false,true,false};    //Java
         // Boolean[] parseTag = new Boolean[]{true,false,false};     //Swift
         Boolean[] parseTag = new Boolean[]{true,true,false};     //Swift + Java
