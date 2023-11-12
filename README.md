@@ -362,6 +362,11 @@
 
 ====
 
+#### 优质算法解析
+
+* [前缀和数组](https://lfool.github.io/LFool-Notes/algorithm/%E5%89%8D%E7%BC%80%E5%92%8C%E6%95%B0%E7%BB%84.html)
+* [线段树详解「汇总级别整理 🔥🔥🔥」](https://lfool.github.io/LFool-Notes/algorithm/%E7%BA%BF%E6%AE%B5%E6%A0%91%E8%AF%A6%E8%A7%A3.html)
+
 #### 算法题组合
 
 #### 组合-1(132题)
