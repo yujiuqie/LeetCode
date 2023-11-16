@@ -355,11 +355,6 @@
 
 * PriorityQueue 需要自定义实现
 
-## 参考链接
-
-* [GitHub - LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
-* [GitHub - swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club)
-
 ====
 
 #### 优质算法解析
@@ -381,3 +376,9 @@
 * 递归与回溯:17、93、131、46、47、77、39、40、216、78、90、401、79、200、130、417、51、52、37
 * 动态规划:70、120、64、343、279、91、62、63、198、213、337、309、300、376、416、322、377、474、139、494
 * 贪心:455、392、435、279
+
+## 参考链接
+
+* [GitHub - LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
+* [GitHub - swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club)
+* [GitHub - 宫水三叶的刷题日记](https://github.com/SharingSource/LogicStack-LeetCode/wiki)
